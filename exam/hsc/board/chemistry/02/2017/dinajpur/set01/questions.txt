@@ -1,0 +1,25 @@
+1 | 100 mL Na<sub>2</sub>CO<sub>3</sub> দ্রবণে 1.06 g Na<sub>2</sub>CO<sub>3</sub> দ্রবীভূত থাকলে দ্রবণের ঘনমাত্র হবে- <br>i. 0.1M <br>ii. 1.06 × 10 4 m g L - 1 <br>iii. 1.06 × 10 4 p p m <br>নিচের কোনটি সঠিক? [Chapter 3: পরিমাণগত রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+2 | কোনটিকে Milk of Lime বলে? | NaOH . Ca O | Ca(OH)<sub>2</sub> | CaCO<sub>3</sub> | Ca O |
+3 | বিশুদ্ধ পানির pH কত? [Chapter 1: পরিবেশ রসায়ন] | 8.5 | 7.5 | 7 | 6.5 |
+4 | শুষ্ক কোষের EMF মান কত? | +1.5V | +1.4V | +1.3V | +1.2V |
+5 | কোনটি কিটো-ইনোল টটোমারিজম প্রদর্শন করে? | মিথোক্সিপ্রোপেন | প্রোপানোন | প্রোপানোন-১ | পেন্ট-২-ওন |
+6 | কোনটি লেড স্টোরেজ সেলের সংকেত? [Chapter 4: তড়িৎ রসায়ন] | Pb / Pb 2 + |  | Cu<sup>2+</sup> / Cu | Pb / Pb S O 4 |
+7 | কোনটি পরমশূন্য তাপমাত্রা? | -273K | 0 K | 273°C | 0°C |
+8 | ইলেকট্রনাকর্ষী প্রতিস্থাপন বিক্রিয়ার ক্ষেত্রে নিচের কোন ক্রমটি সঠিক? | K | L | M | N |
+9 | কোনটির রিচার্জ করা যায়? [Chapter 4: তড়িৎ রসায়ন] | শুষ্ক কোষ | অ্যালকালি জ্বালানি কোষ | লিথিয়াম ব্যাটারি | লিথিয়াম আয়ন ব্যাটারি |
+10 | কোনটি ডেটলের সংকেত? | K | L | M | N |
+11 | কোন ক্রমটি ক্ষারকত্বের জন্য সঠিক? [Chapter 2: জৈব রসায়ন] | R 3 N > R 2 N H > R N H<sub>2</sub> > NH<sub>3</sub> | R 2 N H > R 3 N > R N H<sub>2</sub> > NH<sub>3</sub> | R 2 N H > R N H<sub>2</sub> > R 3 N > NH<sub>3</sub> | R 2 N H < R N H<sub>2</sub> < R 3 N < NH<sub>3</sub> |
+12 | 5 ( w v ) % KOH দ্রবণের ঘনমাত্রা কত? | 1.25M | 0.983M | 0.893M | 0.694M |
+13 | উদ্দীপকটি লক্ষ্য কর এবং প্রশ্নের উত্তর দাওঃ (i) H C ≡ C H → 450°C Fe A (ii) A + CH<sub>3</sub>Cl → D r y Al Cl 3 B + HCl Q. A যৌগটি হলো- [Chapter 2: জৈব রসায়ন] | C<sub>2</sub>H<sub>4</sub> | C<sub>2</sub>H<sub>6</sub> | C<sub>6</sub>H<sub>6</sub> | C 6 H 5 C H 3 |
+14 | উদ্দীপকটি লক্ষ্য কর এবং প্রশ্নের উত্তর দাওঃ (i) H C ≡ C H → 450°C Fe A (ii) A + CH<sub>3</sub>Cl → D r y Al Cl 3 B + HCl Q. উদ্দীপকের B-কে KMnO<sub>4</sub> দ্বারা জারণ করলে কোনটি উৎপন্ন হয়? [Chapter 2: জৈব রসায়ন] | ক | খ | গ | ঘ |
+15 | কোন গ্যাসটির ব্যাপন হার বেশি? [Chapter 1: পরিবেশ রসায়ন] | NH<sub>3</sub> | C<sub>2</sub>H<sub>6</sub> | CO<sub>2</sub> | O<sub>2</sub> |
+16 | কোনটি সেকেন্ডারি স্ট্যান্ডার্ড পদার্থ? | KMnO<sub>4</sub> | K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> | C<sub>2</sub> H<sub>2</sub>O 4 | Na 2 C<sub>2</sub> O 4 |
+17 | পাল্পের বিরঞ্জক পদার্থ কোনটি? | SO<sub>3</sub> | NaOH | Ca ( O Cl ) Cl | HCl |
+18 | পোর্টল্যান্ড সিমেন্টের কাঁচামাল হলো- <br>i. Ca O <br>ii. Si O<sub>2</sub> <br>iii. Na 2 B 4 O 7 .10 H<sub>2</sub>O <br>নিচের কোনটি সঠিক? [Chapter 5: অর্থনৈতিক রসায়ন ℹ️] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+19 | S N 1 বিক্রিয়ার ক্ষেত্রে প্রযোজ্য- <br>i. দুই ধাপে ঘটে <br>ii. সক্রিয়তার ক্রমঃ 3° R x > 2° R x > 1° R x > C H 3 x <br>iii. বিক্রিয়াটি হ্যালোজেনো অ্যালকেন ও নিউক্লিওফাইলের ঘনমাত্রার উপর নির্ভরশীল <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+20 | উদ্দীপকটি লক্ষ্য কর এবং প্রশ্নের উত্তর দাওঃ 2 KMnO<sub>4</sub> + 10 FeSO<sub>4</sub> + 8 H<sub>2</sub>SO<sub>4</sub> → 2 MnSO<sub>4</sub> + 5 Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + K<sub>2</sub>SO<sub>4</sub> + 8 H<sub>2</sub>O Q. ম্যাঙ্গানিজের জারণ সংখ্যা হ্রাস পায়- | 5 | 2 | 1 | -1 |
+21 | উদ্দীপকটি লক্ষ্য কর এবং প্রশ্নের উত্তর দাওঃ 2 KMnO<sub>4</sub> + 10 FeSO<sub>4</sub> + 8 H<sub>2</sub>SO<sub>4</sub> → 2 MnSO<sub>4</sub> + 5 Fe<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + K<sub>2</sub>SO<sub>4</sub> + 8 H<sub>2</sub>O Q. বিক্রিয়াটিতে- <br>i. FeSO<sub>4</sub> এর জারণ ঘটেছে <br>ii. KMnO<sub>4</sub> জারক পদার্থ <br>iii. KMnO<sub>4</sub> 5টি ইলেকট্রন গ্রহণ করে <br>নিচের কোনটি সঠিক? | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+22 | Zn এর তড়িৎ রাসায়নিক তুল্যাংক কত? | 3.388 × 10<sup>-4</sup> | 3.30 × 10<sup>-4</sup> | 3.29 × 10<sup>-4</sup> | 3.22 × 10<sup>-4</sup> |
+23 | 27°C তাপমাত্রায় O<sub>2</sub> এর RMS বেগ কত? | 453.23 m s - 1 | 463.34 m s - 1 | 473.45 m s - 1 | 483.56 m s - 1 |
+24 | কোনটি ইলেকট্রোফাইল? | O H - | NH<sub>3</sub> | H<sub>2</sub>O | Al Cl 3 |
+25 | 28 g N<sub>2</sub> গ্যাসের জন্য ভ্যান্ডার ওয়ালস সমীকরণ কোনটি? [Chapter 1: পরিবেশ রসায়ন] | ( P + 2 n V 2 ) ( V - 2 b ) = 2 R T | ( P + n 2 a V 2 ) ( V - n b ) = n R T | ( P + a V 2 ) ( V - b ) = R T | ( P + a V 2 ) ( V - b ) = n R T |
