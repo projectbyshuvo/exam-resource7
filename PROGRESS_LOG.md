@@ -13,9 +13,9 @@
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 119 / 119 with questions.txt (119 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 | **100% LaTeX Formatted** |
-| **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
+| **HSC Higher Mathematics** | **103 sets** | 2 / 103 with questions.txt (2 LaTeX, 0 HTML, 0 queued) | 2,574 files | 🟢 🔴 | **1.9% (2/103 Complete with LaTeX)** |
 | **HSC ICT** | **43 sets** | 43 / 43 with questions.txt (43 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 | **100% LaTeX Formatted** |
-| **TOTAL REPOSITORY** | **475 sets** | **372 / 475 with questions.txt (294 LaTeX, 78 HTML)** | **11,706 files** | — | **78.3% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **374 / 475 with questions.txt (296 LaTeX, 78 HTML)** | **11,706 files** | — | **78.7% Overall** |
 
 ---
 
@@ -91,6 +91,9 @@
 - **Batch 3 (Exams 451–459 | 2023 ICT - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 4 (Exams 460–467 | 2019 ICT - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 5 (Exams 468–475 | 2017 ICT - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(HSC ICT 100% Completed with LaTeX)*
+
+### HSC Higher Mathematics 1st Paper (In Progress - 2 Sets Done with LaTeX)
+- **Batch 1 (Exams 330–331 | 2025 1st Paper - 2 sets)**: 🟢 **Completed with LaTeX** (Barisal, Chittagong - Self-contained stems with KaTeX matrices, determinants, and diagrams described)
 
 ---
 
@@ -450,8 +453,8 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 330 | `BOARD-HMATH-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 331 | `BOARD-HMATH-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
+| 330 | `BOARD-HMATH-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 331 | `BOARD-HMATH-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 332 | `BOARD-HMATH-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
 | 333 | `BOARD-HMATH-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
 | 334 | `BOARD-HMATH-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
