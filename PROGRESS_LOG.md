@@ -11,11 +11,11 @@
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
 | :--- | :---: | :--- | :---: | :---: | :--- |
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
-| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (18 LaTeX, 88 HTML, 0 queued) | 2,575 files | 🟢 🟡 | **17.0% LaTeX Formatted** |
+| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (27 LaTeX, 79 HTML, 0 queued) | 2,575 files | 🟢 🟡 | **25.5% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 0 / 119 with questions.txt (Images only) | 2,973 files | 🔴 | **0% (Raw Images)** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
 | **HSC ICT** | **43 sets** | 0 / 43 with questions.txt (Images only) | 1,075 files | 🔴 | **0% (Raw Images)** |
-| **TOTAL REPOSITORY** | **475 sets** | **235 / 475 with questions.txt (44 LaTeX, 166 HTML)** | **11,706 files** | — | **49.5% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (53 LaTeX, 157 HTML)** | **11,706 files** | — | **44.2% Overall** |
 
 ---
 
@@ -51,10 +51,11 @@
 - **Batch 11 (Exams 89–96 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 12 (Exams 97–104 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 
-### HSC Biology 1st Paper (In Progress - 18 Sets Done with LaTeX)
+### HSC Biology 1st Paper (In Progress - 27 Sets Done with LaTeX)
 - **Batch 13 (Exams 105–113 | 2025 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 14 (Exams 114–122 | 2023 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
-- **Batch 15 (Exams 123–131 | 2022 1st Paper - 9 sets)**: ⏳ **Next Up (To format with LaTeX)**
+- **Batch 15 (Exams 123–131 | 2022 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 16 (Exams 132–140 | 2021 1st Paper - 9 sets)**: ⏳ **Next Up (To format with LaTeX)**
 
 ---
 
@@ -193,15 +194,15 @@
 | 120 | `BOARD-BIOLOGY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 121 | `BOARD-BIOLOGY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 122 | `BOARD-BIOLOGY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
-| 123 | `BOARD-BIOLOGY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟡 `questions.txt added without latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
-| 124 | `BOARD-BIOLOGY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 125 | `BOARD-BIOLOGY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 126 | `BOARD-BIOLOGY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 127 | `BOARD-BIOLOGY-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 128 | `BOARD-BIOLOGY-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 129 | `BOARD-BIOLOGY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 130 | `BOARD-BIOLOGY-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟡 `questions.txt added without latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
-| 131 | `BOARD-BIOLOGY-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
+| 123 | `BOARD-BIOLOGY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
+| 124 | `BOARD-BIOLOGY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 125 | `BOARD-BIOLOGY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 126 | `BOARD-BIOLOGY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 127 | `BOARD-BIOLOGY-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 128 | `BOARD-BIOLOGY-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 129 | `BOARD-BIOLOGY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 130 | `BOARD-BIOLOGY-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
+| 131 | `BOARD-BIOLOGY-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 132 | `BOARD-BIOLOGY-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
 | 133 | `BOARD-BIOLOGY-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
 | 134 | `BOARD-BIOLOGY-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
