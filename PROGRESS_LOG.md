@@ -11,11 +11,11 @@
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
 | :--- | :---: | :--- | :---: | :---: | :--- |
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
-| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (61 LaTeX, 45 HTML, 0 queued) | 2,575 files | 🟢 🟡 | **57.5% LaTeX Formatted** |
+| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (98 LaTeX, 8 HTML, 0 queued) | 2,575 files | 🟢 🟡 | **92.5% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 0 / 119 with questions.txt (Images only) | 2,973 files | 🔴 | **0% (Raw Images)** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
 | **HSC ICT** | **43 sets** | 0 / 43 with questions.txt (Images only) | 1,075 files | 🔴 | **0% (Raw Images)** |
-| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (87 LaTeX, 123 HTML)** | **11,706 files** | — | **44.2% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (124 LaTeX, 86 HTML)** | **11,706 files** | — | **44.2% Overall** |
 
 ---
 
@@ -59,8 +59,12 @@
 - **Batch 17 (Exams 141–148 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 18 (Exams 149–156 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX** *(Biology 1st Paper 100% Completed)*
 
-### HSC Biology 2nd Paper (In Progress - 9 / 54 Sets Done with LaTeX)
+### HSC Biology 2nd Paper (In Progress - 46 / 54 Sets Done with LaTeX)
 - **Batch 19 (Exams 157–165 | 2025 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 20 (Exams 166–174 | 2023 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 21 (Exams 175–183 | 2022 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 22 (Exams 184–194 | 2021 2nd Paper - 11 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 23 (Exams 195–202 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 
 ---
 
@@ -242,43 +246,43 @@
 | 163 | `BOARD-BIOLOGY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 164 | `BOARD-BIOLOGY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 165 | `BOARD-BIOLOGY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 166 | `BOARD-BIOLOGY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 167 | `BOARD-BIOLOGY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 168 | `BOARD-BIOLOGY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 169 | `BOARD-BIOLOGY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 170 | `BOARD-BIOLOGY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 171 | `BOARD-BIOLOGY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 172 | `BOARD-BIOLOGY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 173 | `BOARD-BIOLOGY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 174 | `BOARD-BIOLOGY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 175 | `BOARD-BIOLOGY-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 176 | `BOARD-BIOLOGY-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 177 | `BOARD-BIOLOGY-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 178 | `BOARD-BIOLOGY-02-2022-DHAKA-set01` | 2nd Paper 2022 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 179 | `BOARD-BIOLOGY-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 180 | `BOARD-BIOLOGY-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 181 | `BOARD-BIOLOGY-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 182 | `BOARD-BIOLOGY-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 183 | `BOARD-BIOLOGY-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 184 | `BOARD-BIOLOGY-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 185 | `BOARD-BIOLOGY-02-2021-BARISAL-set02` | 2nd Paper 2021 | Barisal (set02) | 🟡 `questions.txt added without latex` | ⚠️ 1.png (1 files) |
-| 186 | `BOARD-BIOLOGY-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 187 | `BOARD-BIOLOGY-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 188 | `BOARD-BIOLOGY-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 189 | `BOARD-BIOLOGY-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 190 | `BOARD-BIOLOGY-02-2021-DINAJPUR-set02` | 2nd Paper 2021 | Dinajpur (set02) | 🟡 `questions.txt added without latex` | ⚠️ 1.png (1 files) |
-| 191 | `BOARD-BIOLOGY-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 192 | `BOARD-BIOLOGY-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 193 | `BOARD-BIOLOGY-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 194 | `BOARD-BIOLOGY-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 195 | `BOARD-BIOLOGY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 196 | `BOARD-BIOLOGY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 197 | `BOARD-BIOLOGY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 198 | `BOARD-BIOLOGY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 199 | `BOARD-BIOLOGY-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 200 | `BOARD-BIOLOGY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 201 | `BOARD-BIOLOGY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 202 | `BOARD-BIOLOGY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
+| 166 | `BOARD-BIOLOGY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 167 | `BOARD-BIOLOGY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 168 | `BOARD-BIOLOGY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 169 | `BOARD-BIOLOGY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 170 | `BOARD-BIOLOGY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 171 | `BOARD-BIOLOGY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 172 | `BOARD-BIOLOGY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 173 | `BOARD-BIOLOGY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 174 | `BOARD-BIOLOGY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 175 | `BOARD-BIOLOGY-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 176 | `BOARD-BIOLOGY-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 177 | `BOARD-BIOLOGY-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 178 | `BOARD-BIOLOGY-02-2022-DHAKA-set01` | 2nd Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 179 | `BOARD-BIOLOGY-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 180 | `BOARD-BIOLOGY-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 181 | `BOARD-BIOLOGY-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 182 | `BOARD-BIOLOGY-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 183 | `BOARD-BIOLOGY-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 184 | `BOARD-BIOLOGY-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 185 | `BOARD-BIOLOGY-02-2021-BARISAL-set02` | 2nd Paper 2021 | Barisal (set02) | 🟢 `questions.txt updated with latex` | ⚠️ 1.png (1 files) |
+| 186 | `BOARD-BIOLOGY-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 187 | `BOARD-BIOLOGY-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 188 | `BOARD-BIOLOGY-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 189 | `BOARD-BIOLOGY-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 190 | `BOARD-BIOLOGY-02-2021-DINAJPUR-set02` | 2nd Paper 2021 | Dinajpur (set02) | 🟢 `questions.txt updated with latex` | ⚠️ 1.png (1 files) |
+| 191 | `BOARD-BIOLOGY-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 192 | `BOARD-BIOLOGY-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 193 | `BOARD-BIOLOGY-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 194 | `BOARD-BIOLOGY-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 195 | `BOARD-BIOLOGY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 196 | `BOARD-BIOLOGY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 197 | `BOARD-BIOLOGY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 198 | `BOARD-BIOLOGY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 199 | `BOARD-BIOLOGY-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 200 | `BOARD-BIOLOGY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 201 | `BOARD-BIOLOGY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 202 | `BOARD-BIOLOGY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 203 | `BOARD-BIOLOGY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
 | 204 | `BOARD-BIOLOGY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
 | 205 | `BOARD-BIOLOGY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
