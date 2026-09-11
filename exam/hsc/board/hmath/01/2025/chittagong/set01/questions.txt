@@ -1,25 +1,25 @@
-1 | যদি $A, B, C$ ম্যাট্রিক্স তিনটির আকার যথাক্রমে $3 \times 4$, $4 \times 3$ এবং $3 \times 2$ হয় তবে $(A^T + B)C$ ম্যাট্রিক্সটির আকার কত? | $4 \times 3$ | $3 \times 4$ | $2 \times 4$ | $4 \times 2$ |
-2 | $A = \begin{bmatrix} 0 & 3 & -2 \\ -3 & 0 & 7 \\ 2 & -7 & 0 \end{bmatrix}$ হলে—<br>i. $A$ একটি বিপ্রতিসম ম্যাট্রিক্স<br>ii. $A$ একটি স্কেলার ম্যাট্রিক্স<br>iii. $AB$-এর ক্রম $3 \times 1$ হলে, $B$-এর ক্রম $3 \times 1$<br>নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-3 | উদ্দীপকে $A = 3\begin{bmatrix} 1 & 2 \\ 4 & -3 \end{bmatrix}$। <br><br>Q. $\lvert A\rvert$-এর মান কত? | $33$ | $-11$ | $-33$ | $-99$ |
-4 | উদ্দীপকে $A = 3\begin{bmatrix} 1 & 2 \\ 4 & -3 \end{bmatrix}$। <br><br>Q. $\frac{A}{3}$-এর বিপরীত ম্যাট্রিক্স কোনটি? | $-\frac{1}{11}\begin{bmatrix} -3 & -2 \\ -4 & 1 \end{bmatrix}$ | $\frac{1}{11}\begin{bmatrix} -3 & -2 \\ -4 & 1 \end{bmatrix}$ | $-\frac{1}{11}\begin{bmatrix} -3 & -4 \\ -2 & 1 \end{bmatrix}$ | $\frac{1}{11}\begin{bmatrix} -3 & -4 \\ -2 & 1 \end{bmatrix}$ |
-5 | নিচের কোনটি ব্যতিক্রমী ম্যাট্রিক্স? | $\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$ | $\begin{bmatrix} 2 & -1 \\ 6 & 3 \end{bmatrix}$ | $\begin{bmatrix} 1 & 2 \\ 2 & -4 \end{bmatrix}$ | $-\begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix}$ |
-6 | $a$-এর কোন মানের জন্য $(a - 1)x + (a + 1)y = 7$ রেখাটি $3x + 5y = -7$ রেখার সমান্তরাল হবে? | $-7$ | $-4$ | $4$ | $7$ |
-7 | $y + x = 0$ সরলরেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে? | $45^\circ$ | $135^\circ$ | $225^\circ$ | $315^\circ$ |
-8 | উদ্দীপকে কার্তেসীয় সমতলে মূলবিন্দু $O$ হতে একটি সরলরেখা $AB$-এর ওপর অঙ্কিত লম্ব $OC$-এর দৈর্ঘ্য $3\text{ একক}$ এবং $OC$ ধনাত্মক $x$-অক্ষের সাথে $60^\circ$ কোণ উৎপন্ন করে। <br><br>Q. AB সরলরেখার সমীকরণ কোনটি? | $\sqrt{3}x + y = 6$ | $\sqrt{3}x - y = 6$ | $x - \sqrt{3}y = 6$ | $x + \sqrt{3}y = 6$ |
-9 | উদ্দীপকে কার্তেসীয় সমতলে মূলবিন্দু $O$ হতে একটি সরলরেখা $AB$-এর ওপর অঙ্কিত লম্ব $OC$-এর দৈর্ঘ্য $3\text{ একক}$ এবং $OC$ ধনাত্মক $x$-অক্ষের সাথে $60^\circ$ কোণ উৎপন্ন করে। <br><br>Q. $\Delta OAB$-এর ক্ষেত্রফল কত বর্গ একক? | $3\sqrt{6}$ | $6\sqrt{3}$ | $9\sqrt{3}$ | $12\sqrt{3}$ |
-10 | $(-2, -2)$ বিন্দুর পোলার স্থানাঙ্ক কোনটি? | $\left(2\sqrt{2}, \frac{\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{3\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{5\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{7\pi}{4}\right)$ |
-11 | $3x^2 + 3y^2 + 6x + 12y - 1 = 0$ বৃত্তের কেন্দ্র কোনটি? | $(-3, -6)$ | $(-1, -2)$ | $(1, 2)$ | $(3, 6)$ |
-12 | $(2, 4)$ কেন্দ্রবিশিষ্ট ও $x$-অক্ষকে স্পর্শ করে এরূপ বৃত্তের সমীকরণ— | $x^2 + y^2 - 4x - 8y + 16 = 0$ | $x^2 + y^2 - 4x - 8y + 4 = 0$ | $x^2 + y^2 - 8x - 4y + 16 = 0$ | $x^2 + y^2 - 8x - 4y + 4 = 0$ |
-13 | $y = mx + c$ সরলরেখাটি $x^2 + y^2 = 25$ বৃত্তকে স্পর্শ করার শর্ত— | $c = \pm 5\sqrt{1 + m^2}$ | $c = \pm 5\sqrt{1 - m^2}$ | $c = \pm 25\sqrt{1 + m^2}$ | $c = \pm 25\sqrt{1 - m^2}$ |
-14 | $\Delta ABC$-এর $a : b : c = 1 : \sqrt{3} : 2$ হলে $\angle C$-এর মান কত? | $90^\circ$ | $60^\circ$ | $45^\circ$ | $30^\circ$ |
-15 | $\sin 5^\circ = P$ হলে $\sin 10^\circ$-এর মান কোনটি? | $2P\sqrt{1 - P^2}$ | $2\sqrt{1 - P^2}$ | $2P\sqrt{P^2 - 1}$ | $2P$ |
-16 | উদ্দীপকে $\Delta ABC$-এ $\angle B = 30^\circ$, $\angle C = 120^\circ$ এবং বাহু $a = 2$। <br><br>Q. c = কত? | $\frac{1}{\sqrt{3}}$ | $\frac{2}{\sqrt{3}}$ | $2\sqrt{3}$ | $3\sqrt{3}$ |
-17 | উদ্দীপকে $\Delta ABC$-এ $\angle B = 30^\circ$, $\angle C = 120^\circ$ এবং বাহু $a = 2$। <br><br>Q. $\Delta ABC$-এর পরিব্যাসার্ধ কত? | $1$ | $2$ | $2\sqrt{3}$ | $4$ |
-18 | $y = \cot^{-1}\left(\frac{1 - x}{1 + x}\right)$ হলে, $\frac{dy}{dx} = ?$ | $\frac{1}{1 + x^2}$ | $-\frac{1}{1 + x^2}$ | $\frac{1}{1 + x}$ | $-\frac{1}{1 + x}$ |
-19 | $(0, 1)$ বিন্দুতে $y = e^x$ বক্ররেখার—<br>i. স্পর্শকের সমীকরণ $x - y + 1 = 0$<br>ii. অভিলম্বের সমীকরণ $x + y - 1 = 0$<br>iii. স্পর্শকের ঢাল = 1<br>নিচের কোনটি সঠিক? | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-20 | $\cos 3x$-এর $n$-তম অন্তরজ কোনটি? | $3^n \cos 3x$ | $3^n \sin 3x$ | $3^n \cos\left(\frac{n\pi}{2} + 3x\right)$ | $3^n \sin\left(\frac{n\pi}{2} + 3x\right)$ |
-21 | $x = a\cos\theta$, $y = a\sin\theta$ হলে, $\frac{dy}{dx} =$ কত? | $\frac{y}{x}$ | $\frac{x}{y}$ | $-\frac{y}{x}$ | $-\frac{x}{y}$ |
-22 | $y = -\sqrt{4 - x^2}$ এবং $y = 0$ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি? | $4\pi$ | $2\pi$ | $\pi$ | $\frac{\pi}{2}$ |
-23 | $\int e^x (\cos x - \sin x)\,dx = f(x) + c$ হলে $f(x) =$ কত? | $e^x \sin x$ | $-e^x \sin x$ | $e^x \cos x$ | $-e^x \cos x$ |
-24 | $\int_2^3 \frac{2x - 1}{x(x - 1)}\,dx =$ কত? | $\ln 4$ | $\ln 2$ | $2\ln 3$ | $\ln 3$ |
-25 | $\int \sin x^\circ\,dx =$ কত? | $\cos x^\circ + c$ | $-\cos x^\circ + c$ | $-\frac{180}{\pi}\cos x^\circ + c$ | $\frac{180}{\pi}\cos x^\circ + c$ |
+1 | যদি $A, B, C$ ম্যাট্রিক্স তিনটির আকার যথাক্রমে $3 \times 4$, $4 \times 3$ এবং $3 \times 2$ হয় তবে $(A^T + B)C$ ম্যাট্রিক্সটির আকার কত? [Chapter 1: ম্যাট্রিকস ও নির্ণায়ক] | $4 \times 3$ | $3 \times 4$ | $2 \times 4$ | $4 \times 2$ |
+2 | $A = \begin{bmatrix} 0 & 3 & -2 \\ -3 & 0 & 7 \\ 2 & -7 & 0 \end{bmatrix}$ হলে—<br>i. $A$ একটি বিপ্রতিসম ম্যাট্রিক্স<br>ii. $A$ একটি স্কেলার ম্যাট্রিক্স<br>iii. $AB$-এর ক্রম $3 \times 1$ হলে, $B$-এর ক্রম $3 \times 1$<br>নিচের কোনটি সঠিক? [Chapter 1: ম্যাট্রিকস ও নির্ণায়ক] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+3 | উদ্দীপকে $A = 3\begin{bmatrix} 1 & 2 \\ 4 & -3 \end{bmatrix}$। <br><br>Q. $\lvert A\rvert$-এর মান কত? [Chapter 1: ম্যাট্রিকস ও নির্ণায়ক] | $33$ | $-11$ | $-33$ | $-99$ |
+4 | উদ্দীপকে $A = 3\begin{bmatrix} 1 & 2 \\ 4 & -3 \end{bmatrix}$। <br><br>Q. $\frac{A}{3}$-এর বিপরীত ম্যাট্রিক্স কোনটি? [Chapter 1: ম্যাট্রিকস ও নির্ণায়ক] | $-\frac{1}{11}\begin{bmatrix} -3 & -2 \\ -4 & 1 \end{bmatrix}$ | $\frac{1}{11}\begin{bmatrix} -3 & -2 \\ -4 & 1 \end{bmatrix}$ | $-\frac{1}{11}\begin{bmatrix} -3 & -4 \\ -2 & 1 \end{bmatrix}$ | $\frac{1}{11}\begin{bmatrix} -3 & -4 \\ -2 & 1 \end{bmatrix}$ |
+5 | নিচের কোনটি ব্যতিক্রমী ম্যাট্রিক্স? [Chapter 1: ম্যাট্রিকস ও নির্ণায়ক] | $\begin{bmatrix} 1 & 0 \\ 0 & 1 \end{bmatrix}$ | $\begin{bmatrix} 2 & -1 \\ 6 & 3 \end{bmatrix}$ | $\begin{bmatrix} 1 & 2 \\ 2 & -4 \end{bmatrix}$ | $-\begin{bmatrix} 3 & 6 \\ 2 & 4 \end{bmatrix}$ |
+6 | $a$-এর কোন মানের জন্য $(a - 1)x + (a + 1)y = 7$ রেখাটি $3x + 5y = -7$ রেখার সমান্তরাল হবে? [Chapter 3: সরলরেখা] | $-7$ | $-4$ | $4$ | $7$ |
+7 | $y + x = 0$ সরলরেখাটি $x$-অক্ষের ধনাত্মক দিকের সাথে কত কোণ উৎপন্ন করে? [Chapter 3: সরলরেখা] | $45^\circ$ | $135^\circ$ | $225^\circ$ | $315^\circ$ |
+8 | উদ্দীপকে কার্তেসীয় সমতলে মূলবিন্দু $O$ হতে একটি সরলরেখা $AB$-এর ওপর অঙ্কিত লম্ব $OC$-এর দৈর্ঘ্য $3\text{ একক}$ এবং $OC$ ধনাত্মক $x$-অক্ষের সাথে $60^\circ$ কোণ উৎপন্ন করে। <br><br>Q. AB সরলরেখার সমীকরণ কোনটি? [Chapter 3: সরলরেখা] | $\sqrt{3}x + y = 6$ | $\sqrt{3}x - y = 6$ | $x - \sqrt{3}y = 6$ | $x + \sqrt{3}y = 6$ |
+9 | উদ্দীপকে কার্তেসীয় সমতলে মূলবিন্দু $O$ হতে একটি সরলরেখা $AB$-এর ওপর অঙ্কিত লম্ব $OC$-এর দৈর্ঘ্য $3\text{ একক}$ এবং $OC$ ধনাত্মক $x$-অক্ষের সাথে $60^\circ$ কোণ উৎপন্ন করে। <br><br>Q. $\Delta OAB$-এর ক্ষেত্রফল কত বর্গ একক? [Chapter 3: সরলরেখা] | $3\sqrt{6}$ | $6\sqrt{3}$ | $9\sqrt{3}$ | $12\sqrt{3}$ |
+10 | $(-2, -2)$ বিন্দুর পোলার স্থানাঙ্ক কোনটি? [Chapter 3: সরলরেখা] | $\left(2\sqrt{2}, \frac{\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{3\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{5\pi}{4}\right)$ | $\left(2\sqrt{2}, \frac{7\pi}{4}\right)$ |
+11 | $3x^2 + 3y^2 + 6x + 12y - 1 = 0$ বৃত্তের কেন্দ্র কোনটি? [Chapter 4: বৃত্ত] | $(-3, -6)$ | $(-1, -2)$ | $(1, 2)$ | $(3, 6)$ |
+12 | $(2, 4)$ কেন্দ্রবিশিষ্ট ও $x$-অক্ষকে স্পর্শ করে এরূপ বৃত্তের সমীকরণ— [Chapter 4: বৃত্ত] | $x^2 + y^2 - 4x - 8y + 16 = 0$ | $x^2 + y^2 - 4x - 8y + 4 = 0$ | $x^2 + y^2 - 8x - 4y + 16 = 0$ | $x^2 + y^2 - 8x - 4y + 4 = 0$ |
+13 | $y = mx + c$ সরলরেখাটি $x^2 + y^2 = 25$ বৃত্তকে স্পর্শ করার শর্ত— [Chapter 4: বৃত্ত] | $c = \pm 5\sqrt{1 + m^2}$ | $c = \pm 5\sqrt{1 - m^2}$ | $c = \pm 25\sqrt{1 + m^2}$ | $c = \pm 25\sqrt{1 - m^2}$ |
+14 | $\Delta ABC$-এর $a : b : c = 1 : \sqrt{3} : 2$ হলে $\angle C$-এর মান কত? [Chapter 7: সংযুক্ত কোনের ত্রিকোনমিতিক অনুপাত] | $90^\circ$ | $60^\circ$ | $45^\circ$ | $30^\circ$ |
+15 | $\sin 5^\circ = P$ হলে $\sin 10^\circ$-এর মান কোনটি? [Chapter 7: সংযুক্ত কোনের ত্রিকোনমিতিক অনুপাত] | $2P\sqrt{1 - P^2}$ | $2\sqrt{1 - P^2}$ | $2P\sqrt{P^2 - 1}$ | $2P$ |
+16 | উদ্দীপকে $\Delta ABC$-এ $\angle B = 30^\circ$, $\angle C = 120^\circ$ এবং বাহু $a = 2$। <br><br>Q. c = কত? [Chapter 7: সংযুক্ত কোনের ত্রিকোনমিতিক অনুপাত] | $\frac{1}{\sqrt{3}}$ | $\frac{2}{\sqrt{3}}$ | $2\sqrt{3}$ | $3\sqrt{3}$ |
+17 | উদ্দীপকে $\Delta ABC$-এ $\angle B = 30^\circ$, $\angle C = 120^\circ$ এবং বাহু $a = 2$। <br><br>Q. $\Delta ABC$-এর পরিব্যাসার্ধ কত? [Chapter 7: সংযুক্ত কোনের ত্রিকোনমিতিক অনুপাত] | $1$ | $2$ | $2\sqrt{3}$ | $4$ |
+18 | $y = \cot^{-1}\left(\frac{1 - x}{1 + x}\right)$ হলে, $\frac{dy}{dx} = ?$ [Chapter 9: অন্তরীকরণ] | $\frac{1}{1 + x^2}$ | $-\frac{1}{1 + x^2}$ | $\frac{1}{1 + x}$ | $-\frac{1}{1 + x}$ |
+19 | $(0, 1)$ বিন্দুতে $y = e^x$ বক্ররেখার—<br>i. স্পর্শকের সমীকরণ $x - y + 1 = 0$<br>ii. অভিলম্বের সমীকরণ $x + y - 1 = 0$<br>iii. স্পর্শকের ঢাল = 1<br>নিচের কোনটি সঠিক? [Chapter 9: অন্তরীকরণ] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+20 | $\cos 3x$-এর $n$-তম অন্তরজ কোনটি? [Chapter 9: অন্তরীকরণ] | $3^n \cos 3x$ | $3^n \sin 3x$ | $3^n \cos\left(\frac{n\pi}{2} + 3x\right)$ | $3^n \sin\left(\frac{n\pi}{2} + 3x\right)$ |
+21 | $x = a\cos\theta$, $y = a\sin\theta$ হলে, $\frac{dy}{dx} =$ কত? [Chapter 9: অন্তরীকরণ] | $\frac{y}{x}$ | $\frac{x}{y}$ | $-\frac{y}{x}$ | $-\frac{x}{y}$ |
+22 | $y = -\sqrt{4 - x^2}$ এবং $y = 0$ দ্বারা আবদ্ধ ক্ষেত্রের ক্ষেত্রফল কোনটি? [Chapter 10: যোগজীকরণ] | $4\pi$ | $2\pi$ | $\pi$ | $\frac{\pi}{2}$ |
+23 | $\int e^x (\cos x - \sin x)\,dx = f(x) + c$ হলে $f(x) =$ কত? [Chapter 10: যোগজীকরণ] | $e^x \sin x$ | $-e^x \sin x$ | $e^x \cos x$ | $-e^x \cos x$ |
+24 | $\int_2^3 \frac{2x - 1}{x(x - 1)}\,dx =$ কত? [Chapter 10: যোগজীকরণ] | $\ln 4$ | $\ln 2$ | $2\ln 3$ | $\ln 3$ |
+25 | $\int \sin x^\circ\,dx =$ কত? [Chapter 10: যোগজীকরণ] | $\cos x^\circ + c$ | $-\cos x^\circ + c$ | $-\frac{180}{\pi}\cos x^\circ + c$ | $\frac{180}{\pi}\cos x^\circ + c$ |
