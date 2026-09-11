@@ -12,10 +12,10 @@
 | :--- | :---: | :--- | :---: | :---: | :--- |
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
-| **HSC Physics** | **119 sets** | 60 / 119 with questions.txt (60 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 🔴 | **50.4% (60/119 Complete with LaTeX)** |
+| **HSC Physics** | **119 sets** | 119 / 119 with questions.txt (119 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
 | **HSC ICT** | **43 sets** | 43 / 43 with questions.txt (43 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 | **100% LaTeX Formatted** |
-| **TOTAL REPOSITORY** | **475 sets** | **313 / 475 with questions.txt (235 LaTeX, 78 HTML)** | **11,706 files** | — | **65.9% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **372 / 475 with questions.txt (294 LaTeX, 78 HTML)** | **11,706 files** | — | **78.3% Overall** |
 
 ---
 
@@ -75,6 +75,15 @@
 - **Batch 29 (Exams 246–254 | 2021 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 30 (Exams 255–262 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 31 (Exams 263–270 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(Physics 1st Paper 100% Completed with LaTeX)*
+
+### HSC Physics 2nd Paper (Complete - 59 Sets Done with LaTeX)
+- **Batch 32 (Exams 271–279 | 2025 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 33 (Exams 280–288 | 2024 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 34 (Exams 289–297 | 2023 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 35 (Exams 298–305 | 2022 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 36 (Exams 306–314 | 2021 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 37 (Exams 315–322 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 38 (Exams 323–329 | 2017 2nd Paper - 7 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(Physics 2nd Paper 100% Completed | HSC Physics 100% Completed with LaTeX)*
 
 ### HSC ICT (Complete - 43 / 43 Sets Done with LaTeX)
 - **Batch 1 (Exams 433–441 | 2025 ICT - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
@@ -375,65 +384,65 @@
 | 268 | `BOARD-PHYSICS-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 269 | `BOARD-PHYSICS-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 270 | `BOARD-PHYSICS-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 271 | `BOARD-PHYSICS-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 272 | `BOARD-PHYSICS-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 273 | `BOARD-PHYSICS-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 274 | `BOARD-PHYSICS-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 275 | `BOARD-PHYSICS-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 276 | `BOARD-PHYSICS-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 277 | `BOARD-PHYSICS-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 278 | `BOARD-PHYSICS-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 279 | `BOARD-PHYSICS-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 280 | `BOARD-PHYSICS-02-2024-BARISAL-set01` | 2nd Paper 2024 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 281 | `BOARD-PHYSICS-02-2024-CHITTAGONG-set01` | 2nd Paper 2024 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 282 | `BOARD-PHYSICS-02-2024-COMILLA-set01` | 2nd Paper 2024 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 283 | `BOARD-PHYSICS-02-2024-DHAKA-set01` | 2nd Paper 2024 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 284 | `BOARD-PHYSICS-02-2024-DINAJPUR-set01` | 2nd Paper 2024 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 285 | `BOARD-PHYSICS-02-2024-JESSORE-set01` | 2nd Paper 2024 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 286 | `BOARD-PHYSICS-02-2024-MYMENSINGH-set01` | 2nd Paper 2024 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 287 | `BOARD-PHYSICS-02-2024-RAJSHAHI-set01` | 2nd Paper 2024 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 288 | `BOARD-PHYSICS-02-2024-SYLHET-set01` | 2nd Paper 2024 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 289 | `BOARD-PHYSICS-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 290 | `BOARD-PHYSICS-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 291 | `BOARD-PHYSICS-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 292 | `BOARD-PHYSICS-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 293 | `BOARD-PHYSICS-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 294 | `BOARD-PHYSICS-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 295 | `BOARD-PHYSICS-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 296 | `BOARD-PHYSICS-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 297 | `BOARD-PHYSICS-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 298 | `BOARD-PHYSICS-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 299 | `BOARD-PHYSICS-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 300 | `BOARD-PHYSICS-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 301 | `BOARD-PHYSICS-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 302 | `BOARD-PHYSICS-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 303 | `BOARD-PHYSICS-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 304 | `BOARD-PHYSICS-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 305 | `BOARD-PHYSICS-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 306 | `BOARD-PHYSICS-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 307 | `BOARD-PHYSICS-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 308 | `BOARD-PHYSICS-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 309 | `BOARD-PHYSICS-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 310 | `BOARD-PHYSICS-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 311 | `BOARD-PHYSICS-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 312 | `BOARD-PHYSICS-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 313 | `BOARD-PHYSICS-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 314 | `BOARD-PHYSICS-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 315 | `BOARD-PHYSICS-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 316 | `BOARD-PHYSICS-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 317 | `BOARD-PHYSICS-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 318 | `BOARD-PHYSICS-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 319 | `BOARD-PHYSICS-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 320 | `BOARD-PHYSICS-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 321 | `BOARD-PHYSICS-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 322 | `BOARD-PHYSICS-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 323 | `BOARD-PHYSICS-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 324 | `BOARD-PHYSICS-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 325 | `BOARD-PHYSICS-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 326 | `BOARD-PHYSICS-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 327 | `BOARD-PHYSICS-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 328 | `BOARD-PHYSICS-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 329 | `BOARD-PHYSICS-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
+| 271 | `BOARD-PHYSICS-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 272 | `BOARD-PHYSICS-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 273 | `BOARD-PHYSICS-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 274 | `BOARD-PHYSICS-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 275 | `BOARD-PHYSICS-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 276 | `BOARD-PHYSICS-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 277 | `BOARD-PHYSICS-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 278 | `BOARD-PHYSICS-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 279 | `BOARD-PHYSICS-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 280 | `BOARD-PHYSICS-02-2024-BARISAL-set01` | 2nd Paper 2024 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 281 | `BOARD-PHYSICS-02-2024-CHITTAGONG-set01` | 2nd Paper 2024 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 282 | `BOARD-PHYSICS-02-2024-COMILLA-set01` | 2nd Paper 2024 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 283 | `BOARD-PHYSICS-02-2024-DHAKA-set01` | 2nd Paper 2024 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 284 | `BOARD-PHYSICS-02-2024-DINAJPUR-set01` | 2nd Paper 2024 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 285 | `BOARD-PHYSICS-02-2024-JESSORE-set01` | 2nd Paper 2024 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 286 | `BOARD-PHYSICS-02-2024-MYMENSINGH-set01` | 2nd Paper 2024 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 287 | `BOARD-PHYSICS-02-2024-RAJSHAHI-set01` | 2nd Paper 2024 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 288 | `BOARD-PHYSICS-02-2024-SYLHET-set01` | 2nd Paper 2024 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 289 | `BOARD-PHYSICS-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 290 | `BOARD-PHYSICS-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 291 | `BOARD-PHYSICS-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 292 | `BOARD-PHYSICS-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 293 | `BOARD-PHYSICS-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 294 | `BOARD-PHYSICS-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 295 | `BOARD-PHYSICS-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 296 | `BOARD-PHYSICS-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 297 | `BOARD-PHYSICS-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 298 | `BOARD-PHYSICS-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 299 | `BOARD-PHYSICS-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 300 | `BOARD-PHYSICS-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 301 | `BOARD-PHYSICS-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 302 | `BOARD-PHYSICS-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 303 | `BOARD-PHYSICS-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 304 | `BOARD-PHYSICS-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 305 | `BOARD-PHYSICS-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 306 | `BOARD-PHYSICS-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 307 | `BOARD-PHYSICS-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 308 | `BOARD-PHYSICS-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 309 | `BOARD-PHYSICS-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 310 | `BOARD-PHYSICS-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 311 | `BOARD-PHYSICS-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 312 | `BOARD-PHYSICS-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 313 | `BOARD-PHYSICS-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 314 | `BOARD-PHYSICS-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 315 | `BOARD-PHYSICS-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 316 | `BOARD-PHYSICS-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 317 | `BOARD-PHYSICS-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 318 | `BOARD-PHYSICS-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 319 | `BOARD-PHYSICS-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 320 | `BOARD-PHYSICS-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 321 | `BOARD-PHYSICS-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 322 | `BOARD-PHYSICS-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 323 | `BOARD-PHYSICS-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 324 | `BOARD-PHYSICS-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 325 | `BOARD-PHYSICS-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 326 | `BOARD-PHYSICS-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 327 | `BOARD-PHYSICS-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 328 | `BOARD-PHYSICS-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 329 | `BOARD-PHYSICS-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 
 ---
 
