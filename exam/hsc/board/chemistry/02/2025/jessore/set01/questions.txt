@@ -1,25 +1,25 @@
-1 | ক্যালোমেল তড়িৎদ্বারে কোনটি ব্যবহৃত হয়? [Chapter 4: তড়িৎ রসায়ন] | Hg<sub>2</sub>Cl<sub>2</sub> | NH<sub>4</sub>NO<sub>3</sub> | HgCl<sub>2</sub> | NH<sub>4</sub>Cl |
-2 | কোষ বিভব নির্ণয়ের সমীকরণ হলো- <br>i. E°<sub>cell</sub> = E°<sub>cathode</sub>(red) - E°<sub>anode</sub>(red) <br>ii. E°<sub>cell</sub> = E°<sub>anode</sub>(ox) - E°<sub>cathode</sub>(ox) <br>iii. E°<sub>cell</sub> = E°<sub>anode</sub>(ox) + E°<sub>cathode</sub>(red) <br>নিচের কোনটি সঠিক? [Chapter 4: তড়িৎ রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-3 | কোন লবণটি দ্রবীভূত থাকলে পানি খর হয়? [Chapter 1: পরিবেশ রসায়ন] | NaCl | KCl | RbCl | CaCl<sub>2</sub> |
-4 | কোন গ্যাস দুটির ব্যাপন হার সমান? [Chapter 1: পরিবেশ রসায়ন] | N<sub>2</sub>, C<sub>2</sub>H<sub>4</sub> | CO, CO<sub>2</sub> | H<sub>2</sub>, O<sub>2</sub> | CH<sub>4</sub>, CO<sub>2</sub> |
-5 | নিম্নের কোনটি সিলভার দর্পণ পরীক্ষা দেয়? [Chapter 2: জৈব রসায়ন] | CH<sub>3</sub>-CO-CH<sub>3</sub> | H-COOH | CH<sub>3</sub>-CH<sub>3</sub> | CH<sub>3</sub>-O-CH<sub>3</sub> |
-6 | কোনটির শনাক্তকরণে 2,4-DNP ব্যবহৃত হয়? [Chapter 2: জৈব রসায়ন] | CH<sub>3</sub>COOH | CH<sub>3</sub>-CH(OH)-CH<sub>3</sub> | CH<sub>3</sub>COCH<sub>3</sub> | CH<sub>3</sub>OH |
-7 | 1 ppm এর অর্থ কোনটি? [Chapter 3: পরিমাণগত রসায়ন] | 1 mgL<sup>-1</sup> | 1 gL<sup>-1</sup> | 1 μgL<sup>-1</sup> | 1 ngL<sup>-1</sup> |
+1 | ক্যালোমেল তড়িৎদ্বারে কোনটি ব্যবহৃত হয়? [Chapter 4: তড়িৎ রসায়ন] | $Hg_{2}Cl_{2}$ | $NH_{4}NO_{3}$ | $HgCl_{2}$ | $NH_{4}Cl$ |
+2 | কোষ বিভব নির্ণয়ের সমীকরণ হলো- <br>i. $E^\circ_{\text{cell}} = E^\circ_{\text{cathode}}$(red) - $E^\circ_{\text{anode}}$(red) <br>ii. $E^\circ_{\text{cell}} = E^\circ_{\text{anode}}$(ox) - $E^\circ_{\text{cathode}}$(ox) <br>iii. $E^\circ_{\text{cell}} = E^\circ_{\text{anode}}$(ox) + $E^\circ_{\text{cathode}}$(red) <br>নিচের কোনটি সঠিক? [Chapter 4: তড়িৎ রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+3 | কোন লবণটি দ্রবীভূত থাকলে পানি খর হয়? [Chapter 1: পরিবেশ রসায়ন] | NaCl | KCl | RbCl | $CaCl_{2}$ |
+4 | কোন গ্যাস দুটির ব্যাপন হার সমান? [Chapter 1: পরিবেশ রসায়ন] | $N_{2}$, $C_{2}H_{4}$ | CO, $CO_{2}$ | $H_{2}$, $O_{2}$ | $CH_{4}$, $CO_{2}$ |
+5 | নিম্নের কোনটি সিলভার দর্পণ পরীক্ষা দেয়? [Chapter 2: জৈব রসায়ন] | $CH_{3}-CO-CH_{3}$ | H-COOH | $CH_{3}-CH_{3}$ | $CH_{3}-O-CH_{3}$ |
+6 | কোনটির শনাক্তকরণে 2,4-DNP ব্যবহৃত হয়? [Chapter 2: জৈব রসায়ন] | $CH_{3}COOH$ | $CH_{3}-CH(OH)-CH_{3}$ | $CH_{3}COCH_{3}$ | $CH_{3}OH$ |
+7 | 1 ppm এর অর্থ কোনটি? [Chapter 3: পরিমাণগত রসায়ন] | 1 $mgL^{-1}$ | 1 $gL^{-1}$ | $1 \mugL^{-1}$ | 1 $ngL^{-1}$ |
 8 | ফেনলফথ্যালিনের বর্ণ পরিবর্তনের pH পরিসর কত? [Chapter 3: পরিমাণগত রসায়ন] | 3.0-4.0 | 4.8-6.1 | 8.2-10.0 | 6.2-8.0 |
-9 | আদর্শ গ্যাস আচরণ থেকে বিচ্যুতির সঠিক ক্রম কোনটি? [Chapter 1: পরিবেশ রসায়ন] | H<sub>2</sub> < N<sub>2</sub> < NH<sub>3</sub> < CO<sub>2</sub> | NH<sub>3</sub> > CO<sub>2</sub> > N<sub>2</sub> > H<sub>2</sub> | H<sub>2</sub> < CO<sub>2</sub> < N<sub>2</sub> < NH<sub>3</sub> | N<sub>2</sub> > H<sub>2</sub> > NH<sub>3</sub> > CO<sub>2</sub> |
-10 | অ্যামাগার লেখচিত্রে কোনটি ধনাত্মক বিচ্যুতি দেখায়? [Chapter 1: পরিবেশ রসায়ন] | He | NH<sub>3</sub> | CO<sub>2</sub> | N<sub>2</sub> |
-11 | নিম্নের কোনটি অম্লধর্মী? [Chapter 2: জৈব রসায়ন] | CH<sub>3</sub>-C≡C-CH<sub>3</sub> | CH<sub>3</sub>-C≡C-CH<sub>2</sub>Cl | CH<sub>3</sub>-CH=CH-CH<sub>3</sub> | CH<sub>3</sub>-CH<sub>2</sub>-C≡CH |
+9 | আদর্শ গ্যাস আচরণ থেকে বিচ্যুতির সঠিক ক্রম কোনটি? [Chapter 1: পরিবেশ রসায়ন] | $H_{2} < N_{2} < NH_{3} < CO_{2}$ | $NH_{3} > CO_{2} > N_{2} > H_{2}$ | $H_{2} < CO_{2} < N_{2} < NH_{3}$ | $N_{2} > H_{2} > NH_{3} > CO_{2}$ |
+10 | অ্যামাগার লেখচিত্রে কোনটি ধনাত্মক বিচ্যুতি দেখায়? [Chapter 1: পরিবেশ রসায়ন] | He | $NH_{3}$ | $CO_{2}$ | $N_{2}$ |
+11 | নিম্নের কোনটি অম্লধর্মী? [Chapter 2: জৈব রসায়ন] | $CH_{3}-C$\equiv$C-CH_{3}$ | $CH_{3}-C$\equiv$C-CH_{2}Cl$ | $CH_{3}-CH = CH-CH_{3}$ | $CH_{3}-CH_{2}-C\equivCH$ |
 12 | ইথার প্রস্তুতির জন্য কোন বিক্রিয়া ব্যবহৃত হয়? [Chapter 2: জৈব রসায়ন] | উর্টজ বিক্রিয়া | উইলিয়ামসন বিক্রিয়া | কার্বিল অ্যামিন বিক্রিয়া | কোব বিক্রিয়া |
-13 | অর্থো-প্যারা নির্দেশক মূলক হলো- <br>i. -CHO <br>ii. -NH<sub>2</sub> <br>iii. -OCH<sub>3</sub> <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-14 | কোনটি জারণ-বিজারণ বিক্রিয়া? <br>(ক) HCl + NaOH ⟶ NaCl + H<sub>2</sub>O <br>(খ) MgCO<sub>3</sub> ⟶ MgO + CO<sub>2</sub> <br>(গ) NaCl + AgNO<sub>3</sub> ⟶ NaNO<sub>3</sub> + AgCl <br>(ঘ) 2H<sub>2</sub>S + SO<sub>2</sub> ⟶ 2H<sub>2</sub>O + 3S [Chapter 3: পরিমাণগত রসায়ন] | ক | খ | গ | ঘ |
-15 | নিচের কোনটি বিজারক? [Chapter 3: পরিমাণগত রসায়ন] | Fe<sup>3+</sup> | KMnO<sub>4</sub> | Sn<sup>4+</sup> | LiAlH<sub>4</sub> |
-16 | Ni(s)/Ni<sup>2+</sup>(aq) ‖ Ag<sup>+</sup>(aq)/Ag(s); E°<sub>Ni<sup>2+</sup>/Ni</sub> = -0.25 V, E°<sub>Ag<sup>+</sup>/Ag</sub> = +0.80 V <br>উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: <br>Q. কোষটির বিভব কত? [Chapter 4: তড়িৎ রসায়ন] | 0.55 V | 0.612 V | 1.05 V | 1.85 V |
-17 | Ni(s)/Ni<sup>2+</sup>(aq) ‖ Ag<sup>+</sup>(aq)/Ag(s); E°<sub>Ni<sup>2+</sup>/Ni</sub> = -0.25 V, E°<sub>Ag<sup>+</sup>/Ag</sub> = +0.80 V <br>উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: <br>Q. উদ্দীপকের কোষ বিক্রিয়ায় স্থানান্তরিত ইলেকট্রনের সংখ্যা কত? [Chapter 4: তড়িৎ রসায়ন] | 1 | 2 | 3 | 4 |
-18 | তড়িৎ বিশ্লেষণকালে নিচের কোন আয়নটি আগে চার্জমুক্ত হবে? [Chapter 4: তড়িৎ রসায়ন] | SO<sub>4</sub><sup>2-</sup> | Br<sup>-</sup> | I<sup>-</sup> | OH<sup>-</sup> |
-19 | কোন তড়িৎদ্বারটি জারণ প্রক্রিয়া নির্দেশ করে? [Chapter 4: তড়িৎ রসায়ন] | Pt, Br<sub>2</sub>/Br<sup>-</sup> | Na<sup>+</sup>/Na-Hg | SO<sub>4</sub><sup>2-</sup>/Hg<sub>2</sub>SO<sub>4</sub>, Hg | Fe<sup>3+</sup>, Fe<sup>2+</sup>/Pt |
-20 | কোনটি অনুবন্ধী অম্ল-ক্ষারক যুগল? [Chapter 1: পরিবেশ রসায়ন] | NH<sub>4</sub><sup>+</sup>, NH<sub>3</sub> | H<sub>2</sub>SO<sub>4</sub>, HSO<sub>3</sub><sup>-</sup> | HCl, H<sub>2</sub>SO<sub>4</sub> | NO<sub>2</sub><sup>+</sup>, NH<sub>3</sub> |
+13 | অর্থো-প্যারা নির্দেশক মূলক হলো- <br>i. -CHO <br>ii. $-NH_{2}$ <br>iii. $-OCH_{3}$ <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+14 | কোনটি জারণ-বিজারণ বিক্রিয়া? <br>(ক) HCl + NaOH  \rightarrow  NaCl + $H_{2}O$ <br>(খ) $MgCO_{3}$  \rightarrow  MgO + $CO_{2}$ <br>(গ) NaCl + $AgNO_{3}$  \rightarrow  $NaNO_{3}$ + AgCl <br>(ঘ) $2H_{2}S + SO_{2}$  \rightarrow  $2H_{2}O$ + 3S [Chapter 3: পরিমাণগত রসায়ন] | ক | খ | গ | ঘ |
+15 | নিচের কোনটি বিজারক? [Chapter 3: পরিমাণগত রসায়ন] | $Fe^{3+}$ | $KMnO_{4}$ | $Sn^{4+}$ | $LiAlH_{4}$ |
+16 | $Ni(s)/Ni^{2+}(aq)$ \parallel $Ag^{+}(aq)/Ag(s)$; $E^\circ_{\text{Ni^{2+}/Ni}}$ = -0.25 V, $E^\circ_{\text{Ag^{+}/Ag}}$ = +0.80 V <br>উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: <br>Q. কোষটির বিভব কত? [Chapter 4: তড়িৎ রসায়ন] | 0.55 V | 0.612 V | 1.05 V | 1.85 V |
+17 | $Ni(s)/Ni^{2+}(aq)$ \parallel $Ag^{+}(aq)/Ag(s)$; $E^\circ_{\text{Ni^{2+}/Ni}}$ = -0.25 V, $E^\circ_{\text{Ag^{+}/Ag}}$ = +0.80 V <br>উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও: <br>Q. উদ্দীপকের কোষ বিক্রিয়ায় স্থানান্তরিত ইলেকট্রনের সংখ্যা কত? [Chapter 4: তড়িৎ রসায়ন] | 1 | 2 | 3 | 4 |
+18 | তড়িৎ বিশ্লেষণকালে নিচের কোন আয়নটি আগে চার্জমুক্ত হবে? [Chapter 4: তড়িৎ রসায়ন] | $SO_{4}^{2-}$ | $Br^{-}$ | $I^{-}$ | $OH^{-}$ |
+19 | কোন তড়িৎদ্বারটি জারণ প্রক্রিয়া নির্দেশ করে? [Chapter 4: তড়িৎ রসায়ন] | Pt, $Br_{2}/Br^{-}$ | $Na^{+}/Na-Hg$ | $SO_{4}^{2-}/Hg_{2}SO_{4}$, Hg | $Fe^{3+}$, $Fe^{2+}/Pt$ |
+20 | কোনটি অনুবন্ধী অম্ল-ক্ষারক যুগল? [Chapter 1: পরিবেশ রসায়ন] | $NH_{4}^{+}$, $NH_{3}$ | $H_{2}SO_{4}$, $HSO_{3}^{-}$ | HCl, $H_{2}SO_{4}$ | $NO_{2}^{+}$, $NH_{3}$ |
 21 | ভ্যানডার ওয়ালস সমীকরণে নিচের কোনটি আন্তঃআণবিক আকর্ষণ নির্দেশ করে? [Chapter 1: পরিবেশ রসায়ন] | R | a | b | T |
-22 | CH<sub>3</sub>COOR + H<sub>2</sub>O ⟶[HCl] X + ROH; 'X' যৌগটি শনাক্তকরণে কোনটি ব্যবহৃত হয়? [Chapter 2: জৈব রসায়ন] | Na<sub>2</sub>CO<sub>3</sub> | ZnCl<sub>2</sub> | NaHCO<sub>3</sub> | NH<sub>3</sub> |
-23 | >CO মূলকের কার্বন পরমাণুতে কোন সংকরায়ন ঘটে? [Chapter 2: জৈব রসায়ন] | sp | sp<sup>2</sup> | sp<sup>3</sup> | dsp<sup>2</sup> |
-24 | কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ? [Chapter 3: পরিমাণগত রসায়ন] | KMnO<sub>4</sub> | Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> | NaOH | Na<sub>2</sub>C<sub>2</sub>O<sub>4</sub> |
-25 | কোনটি প্রমাণ দ্রবণ? [Chapter 3: পরিমাণগত রসায়ন] | 2.5 g H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> | প্রায় 1% W/V NaOH | 0.01 M K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> | 2.0 mole Na<sub>2</sub>CO<sub>3</sub> |
+22 | $CH_{3}COOR + H_{2}O$  \xrightarrow{\text{HCl}}  X + ROH; 'X' যৌগটি শনাক্তকরণে কোনটি ব্যবহৃত হয়? [Chapter 2: জৈব রসায়ন] | $Na_{2}CO_{3}$ | $ZnCl_{2}$ | $NaHCO_{3}$ | $NH_{3}$ |
+23 | >CO মূলকের কার্বন পরমাণুতে কোন সংকরায়ন ঘটে? [Chapter 2: জৈব রসায়ন] | sp | $sp^{2}$ | $sp^{3}$ | $dsp^{2}$ |
+24 | কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ? [Chapter 3: পরিমাণগত রসায়ন] | $KMnO_{4}$ | $Na_{2}S_{2}O_{3}$ | NaOH | $Na_{2}C_{2}O_{4}$ |
+25 | কোনটি প্রমাণ দ্রবণ? [Chapter 3: পরিমাণগত রসায়ন] | 2.5 g $H_{2}C_{2}O_{4}$ | প্রায় 1% W/V NaOH | 0.01 M $K_{2}Cr_{2}O_{7}$ | 2.0 mole $Na_{2}CO_{3}$ |

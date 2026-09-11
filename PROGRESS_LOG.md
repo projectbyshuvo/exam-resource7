@@ -1,8 +1,8 @@
 # HSC Board MCQ Migration & Master Asset Tracking Log
 
-**Last Updated:** September 11, 2026  
+**Last Updated:** September 12, 2026
 **Repository:** `https://github.com/projectbyshuvo/exam-resource7.git` (branch: `main`)  
-**Latest Push Commit:** e14e723
+**Latest Push Commit:** 8d3ac9d
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
 | :--- | :---: | :--- | :---: | :---: | :--- |
-| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
+| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (104 LaTeX, 0 HTML, 0 queued) | 2,509 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 119 / 119 with questions.txt (119 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Higher Mathematics** | **103 sets** | 103 / 103 with questions.txt (103 LaTeX, 0 HTML, 0 queued) | 2,574 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC ICT** | **43 sets** | 43 / 43 with questions.txt (43 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 | **100% LaTeX Formatted** |
-| **TOTAL REPOSITORY** | **475 sets** | **475 / 475 with questions.txt (397 LaTeX, 78 HTML)** | **11,706 files** | 🟢 | **100% Overall Complete** |
+| **TOTAL REPOSITORY** | **475 sets** | **475 / 475 with questions.txt (475 LaTeX, 0 HTML)** | **11,706 files** | 🟢 | **100% Overall Complete with LaTeX** |
 
 ---
 
@@ -35,18 +35,18 @@
 
 ## 3. HSC Chemistry Batch Progress (104 Sets)
 
-### HSC Chemistry 2nd Paper (Complete - 52 Sets)
-- **Batch 1 (Exams 1–9 | 2025 2nd Paper - 9 sets)**: Commit `ffac877`
-- **Batch 2 (Exams 10–18 | 2023 2nd Paper - 9 sets)**: Commit `245c7e3`
-- **Batch 3 (Exams 19–27 | 2022 2nd Paper - 9 sets)**: Commit `245c7e3`
-- **Batch 4 (Exams 28–36 | 2021 2nd Paper - 9 sets)**: Commit `26f8506`
-- **Batch 5 (Exams 37–44 | 2019 2nd Paper - 8 sets)**: Commit `26f8506` *(Dinajpur LaTeX test: `4baa5ee`, `f33e640`)*
-- **Batch 6 (Exams 45–52 | 2017 2nd Paper - 8 sets)**: Commit `d2a9af6`
+### HSC Chemistry 2nd Paper (Complete - 52 Sets Done with LaTeX)
+- **Batch 1 (Exams 1–9 | 2025 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 2 (Exams 10–18 | 2023 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 3 (Exams 19–27 | 2022 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 4 (Exams 28–36 | 2021 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 5 (Exams 37–44 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 6 (Exams 45–52 | 2017 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 
-### HSC Chemistry 1st Paper (Complete - 52 Sets)
-- **Batch 7 (Exams 53–61 | 2025 1st Paper - 9 sets)**: Commit `d2a9af6`
-- **Batch 8 (Exams 62–70 | 2023 1st Paper - 9 sets)**: Commit `68a5656`
-- **Batch 9 (Exams 71–79 | 2022 1st Paper - 9 sets)**: Commit `68a5656`
+### HSC Chemistry 1st Paper (Complete - 52 Sets Done with LaTeX)
+- **Batch 7 (Exams 53–61 | 2025 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 8 (Exams 62–70 | 2023 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 9 (Exams 71–79 | 2022 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 10 (Exams 80–88 | 2021 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Commit `f6c29cc`)
 - **Batch 11 (Exams 89–96 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 12 (Exams 97–104 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
@@ -116,85 +116,85 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 2 | `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 3 | `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 4 | `BOARD-CHEMISTRY-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 5 | `BOARD-CHEMISTRY-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 6 | `BOARD-CHEMISTRY-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 7 | `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 8 | `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 9 | `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 10 | `BOARD-CHEMISTRY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 11 | `BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 12 | `BOARD-CHEMISTRY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 13 | `BOARD-CHEMISTRY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 14 | `BOARD-CHEMISTRY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 15 | `BOARD-CHEMISTRY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 16 | `BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 17 | `BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 18 | `BOARD-CHEMISTRY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 19 | `BOARD-CHEMISTRY-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 20 | `BOARD-CHEMISTRY-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 21 | `BOARD-CHEMISTRY-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 22 | `BOARD-CHEMISTRY-02-2022-DHAKA-set01` | 2nd Paper 2022 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 23 | `BOARD-CHEMISTRY-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 24 | `BOARD-CHEMISTRY-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 25 | `BOARD-CHEMISTRY-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 26 | `BOARD-CHEMISTRY-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 27 | `BOARD-CHEMISTRY-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 28 | `BOARD-CHEMISTRY-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 29 | `BOARD-CHEMISTRY-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 30 | `BOARD-CHEMISTRY-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 31 | `BOARD-CHEMISTRY-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 32 | `BOARD-CHEMISTRY-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 33 | `BOARD-CHEMISTRY-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 34 | `BOARD-CHEMISTRY-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 35 | `BOARD-CHEMISTRY-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 36 | `BOARD-CHEMISTRY-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 37 | `BOARD-CHEMISTRY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 38 | `BOARD-CHEMISTRY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 39 | `BOARD-CHEMISTRY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 40 | `BOARD-CHEMISTRY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
+| 1 | `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 2 | `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 3 | `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 4 | `BOARD-CHEMISTRY-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 5 | `BOARD-CHEMISTRY-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 6 | `BOARD-CHEMISTRY-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 7 | `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 8 | `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 9 | `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 10 | `BOARD-CHEMISTRY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 11 | `BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 12 | `BOARD-CHEMISTRY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 13 | `BOARD-CHEMISTRY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 14 | `BOARD-CHEMISTRY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 15 | `BOARD-CHEMISTRY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 16 | `BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 17 | `BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 18 | `BOARD-CHEMISTRY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 19 | `BOARD-CHEMISTRY-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 20 | `BOARD-CHEMISTRY-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 21 | `BOARD-CHEMISTRY-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 22 | `BOARD-CHEMISTRY-02-2022-DHAKA-set01` | 2nd Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 23 | `BOARD-CHEMISTRY-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 24 | `BOARD-CHEMISTRY-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 25 | `BOARD-CHEMISTRY-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 26 | `BOARD-CHEMISTRY-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 27 | `BOARD-CHEMISTRY-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 28 | `BOARD-CHEMISTRY-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 29 | `BOARD-CHEMISTRY-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 30 | `BOARD-CHEMISTRY-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 31 | `BOARD-CHEMISTRY-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 32 | `BOARD-CHEMISTRY-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 33 | `BOARD-CHEMISTRY-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 34 | `BOARD-CHEMISTRY-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 35 | `BOARD-CHEMISTRY-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 36 | `BOARD-CHEMISTRY-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 37 | `BOARD-CHEMISTRY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 38 | `BOARD-CHEMISTRY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 39 | `BOARD-CHEMISTRY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 40 | `BOARD-CHEMISTRY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 41 | `BOARD-CHEMISTRY-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 42 | `BOARD-CHEMISTRY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 43 | `BOARD-CHEMISTRY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 44 | `BOARD-CHEMISTRY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 45 | `BOARD-CHEMISTRY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 46 | `BOARD-CHEMISTRY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 47 | `BOARD-CHEMISTRY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 48 | `BOARD-CHEMISTRY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 49 | `BOARD-CHEMISTRY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 50 | `BOARD-CHEMISTRY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 51 | `BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 52 | `BOARD-CHEMISTRY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 53 | `BOARD-CHEMISTRY-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟡 `questions.txt added without latex` | ⚠️ 12.png, 13.png (2 files) |
-| 54 | `BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟡 `questions.txt added without latex` | ⚠️ 10.png (1 files) |
-| 55 | `BOARD-CHEMISTRY-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🟡 `questions.txt added without latex` | ⚠️ 24.png, 25.png (2 files) |
-| 56 | `BOARD-CHEMISTRY-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 57 | `BOARD-CHEMISTRY-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 58 | `BOARD-CHEMISTRY-01-2025-JESSORE-set01` | 1st Paper 2025 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 59 | `BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01` | 1st Paper 2025 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 60 | `BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01` | 1st Paper 2025 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 61 | `BOARD-CHEMISTRY-01-2025-SYLHET-set01` | 1st Paper 2025 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 62 | `BOARD-CHEMISTRY-01-2023-BARISAL-set01` | 1st Paper 2023 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 63 | `BOARD-CHEMISTRY-01-2023-CHITTAGONG-set01` | 1st Paper 2023 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 64 | `BOARD-CHEMISTRY-01-2023-COMILLA-set01` | 1st Paper 2023 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 65 | `BOARD-CHEMISTRY-01-2023-DHAKA-set01` | 1st Paper 2023 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 66 | `BOARD-CHEMISTRY-01-2023-DINAJPUR-set01` | 1st Paper 2023 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 67 | `BOARD-CHEMISTRY-01-2023-JESSORE-set01` | 1st Paper 2023 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 68 | `BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 69 | `BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 70 | `BOARD-CHEMISTRY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 71 | `BOARD-CHEMISTRY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 72 | `BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 73 | `BOARD-CHEMISTRY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 74 | `BOARD-CHEMISTRY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 75 | `BOARD-CHEMISTRY-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 76 | `BOARD-CHEMISTRY-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 77 | `BOARD-CHEMISTRY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 78 | `BOARD-CHEMISTRY-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 79 | `BOARD-CHEMISTRY-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
+| 42 | `BOARD-CHEMISTRY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 43 | `BOARD-CHEMISTRY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 44 | `BOARD-CHEMISTRY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 45 | `BOARD-CHEMISTRY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 46 | `BOARD-CHEMISTRY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 47 | `BOARD-CHEMISTRY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 48 | `BOARD-CHEMISTRY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 49 | `BOARD-CHEMISTRY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 50 | `BOARD-CHEMISTRY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 51 | `BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 52 | `BOARD-CHEMISTRY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 53 | `BOARD-CHEMISTRY-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | ⚠️ 12.png, 13.png (2 files) |
+| 54 | `BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | ⚠️ 10.png (1 files) |
+| 55 | `BOARD-CHEMISTRY-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | ⚠️ 24.png, 25.png (2 files) |
+| 56 | `BOARD-CHEMISTRY-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 57 | `BOARD-CHEMISTRY-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 58 | `BOARD-CHEMISTRY-01-2025-JESSORE-set01` | 1st Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 59 | `BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01` | 1st Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 60 | `BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01` | 1st Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 61 | `BOARD-CHEMISTRY-01-2025-SYLHET-set01` | 1st Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 62 | `BOARD-CHEMISTRY-01-2023-BARISAL-set01` | 1st Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 63 | `BOARD-CHEMISTRY-01-2023-CHITTAGONG-set01` | 1st Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 64 | `BOARD-CHEMISTRY-01-2023-COMILLA-set01` | 1st Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 65 | `BOARD-CHEMISTRY-01-2023-DHAKA-set01` | 1st Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 66 | `BOARD-CHEMISTRY-01-2023-DINAJPUR-set01` | 1st Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 67 | `BOARD-CHEMISTRY-01-2023-JESSORE-set01` | 1st Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 68 | `BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 69 | `BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 70 | `BOARD-CHEMISTRY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 71 | `BOARD-CHEMISTRY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 72 | `BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 73 | `BOARD-CHEMISTRY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 74 | `BOARD-CHEMISTRY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 75 | `BOARD-CHEMISTRY-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 76 | `BOARD-CHEMISTRY-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 77 | `BOARD-CHEMISTRY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 78 | `BOARD-CHEMISTRY-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 79 | `BOARD-CHEMISTRY-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 80 | `BOARD-CHEMISTRY-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 81 | `BOARD-CHEMISTRY-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 82 | `BOARD-CHEMISTRY-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
