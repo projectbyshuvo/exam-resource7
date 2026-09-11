@@ -9,13 +9,13 @@
 ## 1. Executive Master Overview
 
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
-| :--- | :---: | :--- | :---: | :---: | :--- |
-| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (10 LaTeX, 78 HTML, 16 queued) | 2,509 files | 🟢 🟡 ⏳ | **84.6% Reviewed** |
+| :--- | :---: | :--- | :--- | :---: | :--- |
+| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 HTML) | 2,575 files | 🟡 | **100% Added (HTML)** |
 | **HSC Physics** | **119 sets** | 0 / 119 with questions.txt (Images only) | 2,973 files | 🔴 | **0% (Raw Images)** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
 | **HSC ICT** | **43 sets** | 0 / 43 with questions.txt (Images only) | 1,075 files | 🔴 | **0% (Raw Images)** |
-| **TOTAL REPOSITORY** | **475 sets** | **219 / 475 with questions.txt** | **11,706 files** | — | **46.1% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **235 / 475 with questions.txt** | **11,706 files** | — | **49.5% Overall** |
 
 ---
 
@@ -25,7 +25,7 @@
 | :---: | :--- | :--- |
 | 🟢 | **questions.txt updated with latex** | **Complete & Verified:** Fully formatted with KaTeX/LaTeX math ($...$). Ready for production & image safe-deletion. |
 | 🟡 | **questions.txt added without latex** | **HTML Version Available:** File exists using <sub> and <sup> tags; awaiting conversion to LaTeX math syntax. |
-| ⏳ | **Pending (Batch queued)** | **Queued in Current Batch Plan:** Chemistry 1st Paper sets (Batches 11–12) to be reviewed directly into LaTeX format. |
+| ⏳ | **Pending (Batch queued)** | **Queued in Current Batch Plan:** Sets queued to be reviewed into LaTeX format. |
 | 🔴 | **Missing questions.txt** | **Raw Assets Only:** Question PNG images exist in repository, but structured text file is not yet generated. |
 | 🖼️ | **1.png–25.png (25 files)** | Complete standard 25-MCQ image set present in directory. |
 | ⚠️ | **Partial files (e.g. 2 files)** | Only specific question diagrams/images stored (others already transcribed or text-only). |
@@ -43,13 +43,13 @@
 - **Batch 5 (Exams 37–44 | 2019 2nd Paper - 8 sets)**: Commit `26f8506` *(Dinajpur LaTeX test: `4baa5ee`, `f33e640`)*
 - **Batch 6 (Exams 45–52 | 2017 2nd Paper - 8 sets)**: Commit `d2a9af6`
 
-### HSC Chemistry 1st Paper (In Progress - 36 Sets Done, 16 Queued)
+### HSC Chemistry 1st Paper (Complete - 52 Sets)
 - **Batch 7 (Exams 53–61 | 2025 1st Paper - 9 sets)**: Commit `d2a9af6`
 - **Batch 8 (Exams 62–70 | 2023 1st Paper - 9 sets)**: Commit `68a5656`
 - **Batch 9 (Exams 71–79 | 2022 1st Paper - 9 sets)**: Commit `68a5656`
-- **Batch 10 (Exams 80–88 | 2021 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX**
-- **Batch 11 (Exams 89–96 | 2019 1st Paper - 8 sets)**: ⏳ **Next Up (To format with LaTeX)**
-- **Batch 12 (Exams 97–104 | 2017 1st Paper - 8 sets)**: ⏳ **Queued (Final Chemistry Batch)**
+- **Batch 10 (Exams 80–88 | 2021 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Commit `f6c29cc`)
+- **Batch 11 (Exams 89–96 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
+- **Batch 12 (Exams 97–104 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 
 ---
 
@@ -147,22 +147,22 @@
 | 86 | `BOARD-CHEMISTRY-01-2021-MYMENSINGH-set01` | 1st Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 87 | `BOARD-CHEMISTRY-01-2021-RAJSHAHI-set01` | 1st Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 88 | `BOARD-CHEMISTRY-01-2021-SYLHET-set01` | 1st Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 89 | `BOARD-CHEMISTRY-01-2019-BARISAL-set01` | 1st Paper 2019 | Barisal | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 90 | `BOARD-CHEMISTRY-01-2019-CHITTAGONG-set01` | 1st Paper 2019 | Chittagong | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 91 | `BOARD-CHEMISTRY-01-2019-COMILLA-set01` | 1st Paper 2019 | Comilla | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 92 | `BOARD-CHEMISTRY-01-2019-DHAKA-set01` | 1st Paper 2019 | Dhaka | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 93 | `BOARD-CHEMISTRY-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 94 | `BOARD-CHEMISTRY-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 95 | `BOARD-CHEMISTRY-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 96 | `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 97 | `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | ⏳ `Pending (Batch queued)` | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
-| 98 | `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 99 | `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 100 | `BOARD-CHEMISTRY-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 101 | `BOARD-CHEMISTRY-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 102 | `BOARD-CHEMISTRY-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 103 | `BOARD-CHEMISTRY-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
-| 104 | `BOARD-CHEMISTRY-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | ⏳ `Pending (Batch queued)` | 🖼️ 1.png–25.png (25 files) |
+| 89 | `BOARD-CHEMISTRY-01-2019-BARISAL-set01` | 1st Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 90 | `BOARD-CHEMISTRY-01-2019-CHITTAGONG-set01` | 1st Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 91 | `BOARD-CHEMISTRY-01-2019-COMILLA-set01` | 1st Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 92 | `BOARD-CHEMISTRY-01-2019-DHAKA-set01` | 1st Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 93 | `BOARD-CHEMISTRY-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 94 | `BOARD-CHEMISTRY-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 95 | `BOARD-CHEMISTRY-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 96 | `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 97 | `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
+| 98 | `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 99 | `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 100 | `BOARD-CHEMISTRY-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 101 | `BOARD-CHEMISTRY-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 102 | `BOARD-CHEMISTRY-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 103 | `BOARD-CHEMISTRY-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 104 | `BOARD-CHEMISTRY-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 
 ---
 
