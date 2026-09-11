@@ -14,8 +14,8 @@
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 0 / 119 with questions.txt (Images only) | 2,973 files | 🔴 | **0% (Raw Images)** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
-| **HSC ICT** | **43 sets** | 0 / 43 with questions.txt (Images only) | 1,075 files | 🔴 | **0% (Raw Images)** |
-| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (132 LaTeX, 78 HTML)** | **11,706 files** | — | **44.2% Overall** |
+| **HSC ICT** | **43 sets** | 18 / 43 with questions.txt (18 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 🔴 | **41.9% LaTeX Formatted** |
+| **TOTAL REPOSITORY** | **475 sets** | **228 / 475 with questions.txt (150 LaTeX, 78 HTML)** | **11,706 files** | — | **48.0% Overall** |
 
 ---
 
@@ -66,6 +66,10 @@
 - **Batch 22 (Exams 184–194 | 2021 2nd Paper - 11 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 23 (Exams 195–202 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 24 (Exams 203–210 | 2017 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** *(Biology 2nd Paper 100% Completed | HSC Biology 100% Completed)*
+
+### HSC ICT (In Progress - 18 / 43 Sets Done with LaTeX)
+- **Batch 1 (Exams 433–441 | 2025 ICT - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 2 (Exams 442–450 | 2024 ICT - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 
 ---
 
@@ -535,24 +539,24 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 433 | `BOARD-ICT-2025-BARISAL-set01` | Single Paper 2025 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 434 | `BOARD-ICT-2025-CHITTAGONG-set01` | Single Paper 2025 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 435 | `BOARD-ICT-2025-COMILLA-set01` | Single Paper 2025 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 436 | `BOARD-ICT-2025-DHAKA-set01` | Single Paper 2025 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 437 | `BOARD-ICT-2025-DINAJPUR-set01` | Single Paper 2025 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 438 | `BOARD-ICT-2025-JESSORE-set01` | Single Paper 2025 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 439 | `BOARD-ICT-2025-MYMENSINGH-set01` | Single Paper 2025 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 440 | `BOARD-ICT-2025-RAJSHAHI-set01` | Single Paper 2025 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 441 | `BOARD-ICT-2025-SYLHET-set01` | Single Paper 2025 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 442 | `BOARD-ICT-2024-BARISAL-set01` | Single Paper 2024 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 443 | `BOARD-ICT-2024-CHITTAGONG-set01` | Single Paper 2024 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 444 | `BOARD-ICT-2024-COMILLA-set01` | Single Paper 2024 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 445 | `BOARD-ICT-2024-DHAKA-set01` | Single Paper 2024 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 446 | `BOARD-ICT-2024-DINAJPUR-set01` | Single Paper 2024 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 447 | `BOARD-ICT-2024-JESSORE-set01` | Single Paper 2024 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 448 | `BOARD-ICT-2024-MYMENSINGH-set01` | Single Paper 2024 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 449 | `BOARD-ICT-2024-RAJSHAHI-set01` | Single Paper 2024 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 450 | `BOARD-ICT-2024-SYLHET-set01` | Single Paper 2024 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
+| 433 | `BOARD-ICT-2025-BARISAL-set01` | Single Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 434 | `BOARD-ICT-2025-CHITTAGONG-set01` | Single Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 435 | `BOARD-ICT-2025-COMILLA-set01` | Single Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 436 | `BOARD-ICT-2025-DHAKA-set01` | Single Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 437 | `BOARD-ICT-2025-DINAJPUR-set01` | Single Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 438 | `BOARD-ICT-2025-JESSORE-set01` | Single Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 439 | `BOARD-ICT-2025-MYMENSINGH-set01` | Single Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 440 | `BOARD-ICT-2025-RAJSHAHI-set01` | Single Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 441 | `BOARD-ICT-2025-SYLHET-set01` | Single Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 442 | `BOARD-ICT-2024-BARISAL-set01` | Single Paper 2024 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 443 | `BOARD-ICT-2024-CHITTAGONG-set01` | Single Paper 2024 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 444 | `BOARD-ICT-2024-COMILLA-set01` | Single Paper 2024 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 445 | `BOARD-ICT-2024-DHAKA-set01` | Single Paper 2024 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 446 | `BOARD-ICT-2024-DINAJPUR-set01` | Single Paper 2024 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 447 | `BOARD-ICT-2024-JESSORE-set01` | Single Paper 2024 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 448 | `BOARD-ICT-2024-MYMENSINGH-set01` | Single Paper 2024 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 449 | `BOARD-ICT-2024-RAJSHAHI-set01` | Single Paper 2024 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 450 | `BOARD-ICT-2024-SYLHET-set01` | Single Paper 2024 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 451 | `BOARD-ICT-2023-BARISAL-set01` | Single Paper 2023 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
 | 452 | `BOARD-ICT-2023-CHITTAGONG-set01` | Single Paper 2023 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
 | 453 | `BOARD-ICT-2023-COMILLA-set01` | Single Paper 2023 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
