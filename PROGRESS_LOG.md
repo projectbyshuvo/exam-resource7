@@ -13,9 +13,9 @@
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 119 / 119 with questions.txt (119 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 | **100% LaTeX Formatted** |
-| **HSC Higher Mathematics** | **103 sets** | 2 / 103 with questions.txt (2 LaTeX, 0 HTML, 0 queued) | 2,574 files | 🟢 🔴 | **1.9% (2/103 Complete with LaTeX)** |
+| **HSC Higher Mathematics** | **103 sets** | 103 / 103 with questions.txt (103 LaTeX, 0 HTML, 0 queued) | 2,574 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC ICT** | **43 sets** | 43 / 43 with questions.txt (43 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 | **100% LaTeX Formatted** |
-| **TOTAL REPOSITORY** | **475 sets** | **374 / 475 with questions.txt (296 LaTeX, 78 HTML)** | **11,706 files** | — | **78.7% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **475 / 475 with questions.txt (397 LaTeX, 78 HTML)** | **11,706 files** | 🟢 | **100% Overall Complete** |
 
 ---
 
@@ -92,8 +92,21 @@
 - **Batch 4 (Exams 460–467 | 2019 ICT - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 5 (Exams 468–475 | 2017 ICT - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(HSC ICT 100% Completed with LaTeX)*
 
-### HSC Higher Mathematics 1st Paper (In Progress - 2 Sets Done with LaTeX)
-- **Batch 1 (Exams 330–331 | 2025 1st Paper - 2 sets)**: 🟢 **Completed with LaTeX** (Barisal, Chittagong - Self-contained stems with KaTeX matrices, determinants, and diagrams described)
+### HSC Higher Mathematics 1st Paper (Complete - 51 Sets Done with LaTeX)
+- **Batch 39 (Exams 330–338 | 2025 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 40 (Exams 339–347 | 2023 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 41 (Exams 348–356 | 2022 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 42 (Exams 357–365 | 2021 1st Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 43 (Exams 366–373 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 44 (Exams 374–380 | 2017 1st Paper - 7 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(Higher Mathematics 1st Paper 100% Completed with LaTeX)*
+
+### HSC Higher Mathematics 2nd Paper (Complete - 52 Sets Done with LaTeX)
+- **Batch 45 (Exams 381–389 | 2025 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 46 (Exams 390–398 | 2023 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 47 (Exams 399–407 | 2022 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 48 (Exams 408–416 | 2021 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 49 (Exams 417–424 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 50 (Exams 425–432 | 2017 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described) *(Higher Mathematics 2nd Paper 100% Completed | HSC Higher Mathematics 100% Completed with LaTeX)*
 
 ---
 
@@ -455,107 +468,107 @@
 | :---: | :--- | :--- | :--- | :--- | :--- |
 | 330 | `BOARD-HMATH-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 331 | `BOARD-HMATH-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 332 | `BOARD-HMATH-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 333 | `BOARD-HMATH-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 334 | `BOARD-HMATH-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 335 | `BOARD-HMATH-01-2025-JESSORE-set01` | 1st Paper 2025 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 336 | `BOARD-HMATH-01-2025-MYMENSINGH-set01` | 1st Paper 2025 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 337 | `BOARD-HMATH-01-2025-RAJSHAHI-set01` | 1st Paper 2025 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 338 | `BOARD-HMATH-01-2025-SYLHET-set01` | 1st Paper 2025 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 339 | `BOARD-HMATH-01-2023-BARISAL-set01` | 1st Paper 2023 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 340 | `BOARD-HMATH-01-2023-CHITTAGONG-set01` | 1st Paper 2023 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 341 | `BOARD-HMATH-01-2023-COMILLA-set01` | 1st Paper 2023 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 342 | `BOARD-HMATH-01-2023-DHAKA-set01` | 1st Paper 2023 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 343 | `BOARD-HMATH-01-2023-DINAJPUR-set01` | 1st Paper 2023 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 344 | `BOARD-HMATH-01-2023-JESSORE-set01` | 1st Paper 2023 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 345 | `BOARD-HMATH-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 346 | `BOARD-HMATH-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 347 | `BOARD-HMATH-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 348 | `BOARD-HMATH-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 349 | `BOARD-HMATH-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 350 | `BOARD-HMATH-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 351 | `BOARD-HMATH-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 352 | `BOARD-HMATH-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 353 | `BOARD-HMATH-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 354 | `BOARD-HMATH-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 355 | `BOARD-HMATH-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 356 | `BOARD-HMATH-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 357 | `BOARD-HMATH-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 358 | `BOARD-HMATH-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 359 | `BOARD-HMATH-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 360 | `BOARD-HMATH-01-2021-DHAKA-set01` | 1st Paper 2021 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 361 | `BOARD-HMATH-01-2021-DINAJPUR-set01` | 1st Paper 2021 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 362 | `BOARD-HMATH-01-2021-JESSORE-set01` | 1st Paper 2021 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 363 | `BOARD-HMATH-01-2021-MYMENSINGH-set01` | 1st Paper 2021 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 364 | `BOARD-HMATH-01-2021-RAJSHAHI-set01` | 1st Paper 2021 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 365 | `BOARD-HMATH-01-2021-SYLHET-set01` | 1st Paper 2021 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 366 | `BOARD-HMATH-01-2019-BARISAL-set01` | 1st Paper 2019 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 367 | `BOARD-HMATH-01-2019-CHITTAGONG-set01` | 1st Paper 2019 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 368 | `BOARD-HMATH-01-2019-COMILLA-set01` | 1st Paper 2019 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 369 | `BOARD-HMATH-01-2019-DHAKA-set01` | 1st Paper 2019 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 370 | `BOARD-HMATH-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 371 | `BOARD-HMATH-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 372 | `BOARD-HMATH-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 373 | `BOARD-HMATH-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 374 | `BOARD-HMATH-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 375 | `BOARD-HMATH-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 376 | `BOARD-HMATH-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 377 | `BOARD-HMATH-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 378 | `BOARD-HMATH-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 379 | `BOARD-HMATH-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 380 | `BOARD-HMATH-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 381 | `BOARD-HMATH-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 382 | `BOARD-HMATH-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 383 | `BOARD-HMATH-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 384 | `BOARD-HMATH-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 385 | `BOARD-HMATH-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 386 | `BOARD-HMATH-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 387 | `BOARD-HMATH-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 388 | `BOARD-HMATH-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 389 | `BOARD-HMATH-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 390 | `BOARD-HMATH-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 391 | `BOARD-HMATH-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 392 | `BOARD-HMATH-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 393 | `BOARD-HMATH-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 394 | `BOARD-HMATH-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 395 | `BOARD-HMATH-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 396 | `BOARD-HMATH-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 397 | `BOARD-HMATH-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 398 | `BOARD-HMATH-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 399 | `BOARD-HMATH-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 400 | `BOARD-HMATH-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 401 | `BOARD-HMATH-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 402 | `BOARD-HMATH-02-2022-DHAKA-set01` | 2nd Paper 2022 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 403 | `BOARD-HMATH-02-2022-DINAJPUR-set01` | 2nd Paper 2022 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 404 | `BOARD-HMATH-02-2022-JESSORE-set01` | 2nd Paper 2022 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 405 | `BOARD-HMATH-02-2022-MYMENSINGH-set01` | 2nd Paper 2022 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 406 | `BOARD-HMATH-02-2022-RAJSHAHI-set01` | 2nd Paper 2022 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 407 | `BOARD-HMATH-02-2022-SYLHET-set01` | 2nd Paper 2022 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 408 | `BOARD-HMATH-02-2021-BARISAL-set01` | 2nd Paper 2021 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 409 | `BOARD-HMATH-02-2021-CHITTAGONG-set01` | 2nd Paper 2021 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 410 | `BOARD-HMATH-02-2021-COMILLA-set01` | 2nd Paper 2021 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 411 | `BOARD-HMATH-02-2021-DHAKA-set01` | 2nd Paper 2021 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 412 | `BOARD-HMATH-02-2021-DINAJPUR-set01` | 2nd Paper 2021 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 413 | `BOARD-HMATH-02-2021-JESSORE-set01` | 2nd Paper 2021 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 414 | `BOARD-HMATH-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 415 | `BOARD-HMATH-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 416 | `BOARD-HMATH-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 417 | `BOARD-HMATH-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 418 | `BOARD-HMATH-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 419 | `BOARD-HMATH-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 420 | `BOARD-HMATH-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🔴 `Missing questions.txt` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
-| 421 | `BOARD-HMATH-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 422 | `BOARD-HMATH-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 423 | `BOARD-HMATH-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 424 | `BOARD-HMATH-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 425 | `BOARD-HMATH-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 426 | `BOARD-HMATH-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 427 | `BOARD-HMATH-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 428 | `BOARD-HMATH-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 429 | `BOARD-HMATH-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 430 | `BOARD-HMATH-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 431 | `BOARD-HMATH-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
-| 432 | `BOARD-HMATH-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🔴 `Missing questions.txt` | 🖼️ 1.png–25.png (25 files) |
+| 332 | `BOARD-HMATH-01-2025-COMILLA-set01` | 1st Paper 2025  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 333 | `BOARD-HMATH-01-2025-DHAKA-set01` | 1st Paper 2025  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 334 | `BOARD-HMATH-01-2025-DINAJPUR-set01` | 1st Paper 2025  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 335 | `BOARD-HMATH-01-2025-JESSORE-set01` | 1st Paper 2025  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 336 | `BOARD-HMATH-01-2025-MYMENSINGH-set01` | 1st Paper 2025  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 337 | `BOARD-HMATH-01-2025-RAJSHAHI-set01` | 1st Paper 2025  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 338 | `BOARD-HMATH-01-2025-SYLHET-set01` | 1st Paper 2025  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 339 | `BOARD-HMATH-01-2023-BARISAL-set01` | 1st Paper 2023  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 340 | `BOARD-HMATH-01-2023-CHITTAGONG-set01` | 1st Paper 2023  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 341 | `BOARD-HMATH-01-2023-COMILLA-set01` | 1st Paper 2023  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 342 | `BOARD-HMATH-01-2023-DHAKA-set01` | 1st Paper 2023  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 343 | `BOARD-HMATH-01-2023-DINAJPUR-set01` | 1st Paper 2023  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 344 | `BOARD-HMATH-01-2023-JESSORE-set01` | 1st Paper 2023  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 345 | `BOARD-HMATH-01-2023-MYMENSINGH-set01` | 1st Paper 2023  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 346 | `BOARD-HMATH-01-2023-RAJSHAHI-set01` | 1st Paper 2023  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 347 | `BOARD-HMATH-01-2023-SYLHET-set01` | 1st Paper 2023  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 348 | `BOARD-HMATH-01-2022-BARISAL-set01` | 1st Paper 2022  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 349 | `BOARD-HMATH-01-2022-CHITTAGONG-set01` | 1st Paper 2022  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 350 | `BOARD-HMATH-01-2022-COMILLA-set01` | 1st Paper 2022  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 351 | `BOARD-HMATH-01-2022-DHAKA-set01` | 1st Paper 2022  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 352 | `BOARD-HMATH-01-2022-DINAJPUR-set01` | 1st Paper 2022  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 353 | `BOARD-HMATH-01-2022-JESSORE-set01` | 1st Paper 2022  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 354 | `BOARD-HMATH-01-2022-MYMENSINGH-set01` | 1st Paper 2022  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 355 | `BOARD-HMATH-01-2022-RAJSHAHI-set01` | 1st Paper 2022  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 356 | `BOARD-HMATH-01-2022-SYLHET-set01` | 1st Paper 2022  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 357 | `BOARD-HMATH-01-2021-BARISAL-set01` | 1st Paper 2021  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 358 | `BOARD-HMATH-01-2021-CHITTAGONG-set01` | 1st Paper 2021  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 359 | `BOARD-HMATH-01-2021-COMILLA-set01` | 1st Paper 2021  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 360 | `BOARD-HMATH-01-2021-DHAKA-set01` | 1st Paper 2021  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 361 | `BOARD-HMATH-01-2021-DINAJPUR-set01` | 1st Paper 2021  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 362 | `BOARD-HMATH-01-2021-JESSORE-set01` | 1st Paper 2021  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 363 | `BOARD-HMATH-01-2021-MYMENSINGH-set01` | 1st Paper 2021  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 364 | `BOARD-HMATH-01-2021-RAJSHAHI-set01` | 1st Paper 2021  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 365 | `BOARD-HMATH-01-2021-SYLHET-set01` | 1st Paper 2021  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 366 | `BOARD-HMATH-01-2019-BARISAL-set01` | 1st Paper 2019  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 367 | `BOARD-HMATH-01-2019-CHITTAGONG-set01` | 1st Paper 2019  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 368 | `BOARD-HMATH-01-2019-COMILLA-set01` | 1st Paper 2019  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 369 | `BOARD-HMATH-01-2019-DHAKA-set01` | 1st Paper 2019  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 370 | `BOARD-HMATH-01-2019-DINAJPUR-set01` | 1st Paper 2019  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 371 | `BOARD-HMATH-01-2019-JESSORE-set01` | 1st Paper 2019  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 372 | `BOARD-HMATH-01-2019-RAJSHAHI-set01` | 1st Paper 2019  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 373 | `BOARD-HMATH-01-2019-SYLHET-set01` | 1st Paper 2019  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 374 | `BOARD-HMATH-01-2017-BARISAL-set01` | 1st Paper 2017  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 375 | `BOARD-HMATH-01-2017-COMILLA-set01` | 1st Paper 2017  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 376 | `BOARD-HMATH-01-2017-DHAKA-set01` | 1st Paper 2017  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 377 | `BOARD-HMATH-01-2017-DINAJPUR-set01` | 1st Paper 2017  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 378 | `BOARD-HMATH-01-2017-JESSORE-set01` | 1st Paper 2017  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 379 | `BOARD-HMATH-01-2017-RAJSHAHI-set01` | 1st Paper 2017  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 380 | `BOARD-HMATH-01-2017-SYLHET-set01` | 1st Paper 2017  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 381 | `BOARD-HMATH-02-2025-BARISAL-set01` | 2nd Paper 2025  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 382 | `BOARD-HMATH-02-2025-CHITTAGONG-set01` | 2nd Paper 2025  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 383 | `BOARD-HMATH-02-2025-COMILLA-set01` | 2nd Paper 2025  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 384 | `BOARD-HMATH-02-2025-DHAKA-set01` | 2nd Paper 2025  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 385 | `BOARD-HMATH-02-2025-DINAJPUR-set01` | 2nd Paper 2025  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 386 | `BOARD-HMATH-02-2025-JESSORE-set01` | 2nd Paper 2025  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 387 | `BOARD-HMATH-02-2025-MYMENSINGH-set01` | 2nd Paper 2025  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 388 | `BOARD-HMATH-02-2025-RAJSHAHI-set01` | 2nd Paper 2025  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 389 | `BOARD-HMATH-02-2025-SYLHET-set01` | 2nd Paper 2025  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 390 | `BOARD-HMATH-02-2023-BARISAL-set01` | 2nd Paper 2023  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 391 | `BOARD-HMATH-02-2023-CHITTAGONG-set01` | 2nd Paper 2023  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 392 | `BOARD-HMATH-02-2023-COMILLA-set01` | 2nd Paper 2023  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 393 | `BOARD-HMATH-02-2023-DHAKA-set01` | 2nd Paper 2023  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 394 | `BOARD-HMATH-02-2023-DINAJPUR-set01` | 2nd Paper 2023  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 395 | `BOARD-HMATH-02-2023-JESSORE-set01` | 2nd Paper 2023  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 396 | `BOARD-HMATH-02-2023-MYMENSINGH-set01` | 2nd Paper 2023  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 397 | `BOARD-HMATH-02-2023-RAJSHAHI-set01` | 2nd Paper 2023  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 398 | `BOARD-HMATH-02-2023-SYLHET-set01` | 2nd Paper 2023  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 399 | `BOARD-HMATH-02-2022-BARISAL-set01` | 2nd Paper 2022  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 400 | `BOARD-HMATH-02-2022-CHITTAGONG-set01` | 2nd Paper 2022  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 401 | `BOARD-HMATH-02-2022-COMILLA-set01` | 2nd Paper 2022  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 402 | `BOARD-HMATH-02-2022-DHAKA-set01` | 2nd Paper 2022  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 403 | `BOARD-HMATH-02-2022-DINAJPUR-set01` | 2nd Paper 2022  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 404 | `BOARD-HMATH-02-2022-JESSORE-set01` | 2nd Paper 2022  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 405 | `BOARD-HMATH-02-2022-MYMENSINGH-set01` | 2nd Paper 2022  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 406 | `BOARD-HMATH-02-2022-RAJSHAHI-set01` | 2nd Paper 2022  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 407 | `BOARD-HMATH-02-2022-SYLHET-set01` | 2nd Paper 2022  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 408 | `BOARD-HMATH-02-2021-BARISAL-set01` | 2nd Paper 2021  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 409 | `BOARD-HMATH-02-2021-CHITTAGONG-set01` | 2nd Paper 2021  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 410 | `BOARD-HMATH-02-2021-COMILLA-set01` | 2nd Paper 2021  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 411 | `BOARD-HMATH-02-2021-DHAKA-set01` | 2nd Paper 2021  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 412 | `BOARD-HMATH-02-2021-DINAJPUR-set01` | 2nd Paper 2021  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 413 | `BOARD-HMATH-02-2021-JESSORE-set01` | 2nd Paper 2021  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 414 | `BOARD-HMATH-02-2021-MYMENSINGH-set01` | 2nd Paper 2021  | Mymensingh  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 415 | `BOARD-HMATH-02-2021-RAJSHAHI-set01` | 2nd Paper 2021  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 416 | `BOARD-HMATH-02-2021-SYLHET-set01` | 2nd Paper 2021  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 417 | `BOARD-HMATH-02-2019-BARISAL-set01` | 2nd Paper 2019  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 418 | `BOARD-HMATH-02-2019-CHITTAGONG-set01` | 2nd Paper 2019  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 419 | `BOARD-HMATH-02-2019-COMILLA-set01` | 2nd Paper 2019  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 420 | `BOARD-HMATH-02-2019-DHAKA-set01` | 2nd Paper 2019  | Dhaka  | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files)  |
+| 421 | `BOARD-HMATH-02-2019-DINAJPUR-set01` | 2nd Paper 2019  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 422 | `BOARD-HMATH-02-2019-JESSORE-set01` | 2nd Paper 2019  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 423 | `BOARD-HMATH-02-2019-RAJSHAHI-set01` | 2nd Paper 2019  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 424 | `BOARD-HMATH-02-2019-SYLHET-set01` | 2nd Paper 2019  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 425 | `BOARD-HMATH-02-2017-BARISAL-set01` | 2nd Paper 2017  | Barisal  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 426 | `BOARD-HMATH-02-2017-CHITTAGONG-set01` | 2nd Paper 2017  | Chittagong  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 427 | `BOARD-HMATH-02-2017-COMILLA-set01` | 2nd Paper 2017  | Comilla  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 428 | `BOARD-HMATH-02-2017-DHAKA-set01` | 2nd Paper 2017  | Dhaka  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 429 | `BOARD-HMATH-02-2017-DINAJPUR-set01` | 2nd Paper 2017  | Dinajpur  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 430 | `BOARD-HMATH-02-2017-JESSORE-set01` | 2nd Paper 2017  | Jessore  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 431 | `BOARD-HMATH-02-2017-RAJSHAHI-set01` | 2nd Paper 2017  | Rajshahi  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
+| 432 | `BOARD-HMATH-02-2017-SYLHET-set01` | 2nd Paper 2017  | Sylhet  | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files)  |
 
 ---
 
