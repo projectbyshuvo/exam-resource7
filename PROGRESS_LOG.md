@@ -11,11 +11,11 @@
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
 | :--- | :---: | :--- | :---: | :---: | :--- |
 | **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (26 LaTeX, 78 HTML, 0 queued) | 2,509 files | 🟢 🟡 | **100% Reviewed** |
-| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (98 LaTeX, 8 HTML, 0 queued) | 2,575 files | 🟢 🟡 | **92.5% LaTeX Formatted** |
+| **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 0 / 119 with questions.txt (Images only) | 2,973 files | 🔴 | **0% (Raw Images)** |
 | **HSC Higher Mathematics** | **103 sets** | 0 / 103 with questions.txt (Images only) | 2,574 files | 🔴 | **0% (Raw Images)** |
 | **HSC ICT** | **43 sets** | 0 / 43 with questions.txt (Images only) | 1,075 files | 🔴 | **0% (Raw Images)** |
-| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (124 LaTeX, 86 HTML)** | **11,706 files** | — | **44.2% Overall** |
+| **TOTAL REPOSITORY** | **475 sets** | **210 / 475 with questions.txt (132 LaTeX, 78 HTML)** | **11,706 files** | — | **44.2% Overall** |
 
 ---
 
@@ -59,12 +59,13 @@
 - **Batch 17 (Exams 141–148 | 2019 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX**
 - **Batch 18 (Exams 149–156 | 2017 1st Paper - 8 sets)**: 🟢 **Completed with LaTeX** *(Biology 1st Paper 100% Completed)*
 
-### HSC Biology 2nd Paper (In Progress - 46 / 54 Sets Done with LaTeX)
+### HSC Biology 2nd Paper (Complete - 54 Sets Done with LaTeX)
 - **Batch 19 (Exams 157–165 | 2025 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 20 (Exams 166–174 | 2023 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 21 (Exams 175–183 | 2022 2nd Paper - 9 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 22 (Exams 184–194 | 2021 2nd Paper - 11 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
 - **Batch 23 (Exams 195–202 | 2019 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** (Self-contained stems with KaTeX formulas, all diagrams described)
+- **Batch 24 (Exams 203–210 | 2017 2nd Paper - 8 sets)**: 🟢 **Completed with LaTeX** *(Biology 2nd Paper 100% Completed | HSC Biology 100% Completed)*
 
 ---
 
@@ -283,14 +284,14 @@
 | 200 | `BOARD-BIOLOGY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 201 | `BOARD-BIOLOGY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 202 | `BOARD-BIOLOGY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 203 | `BOARD-BIOLOGY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 204 | `BOARD-BIOLOGY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 205 | `BOARD-BIOLOGY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 206 | `BOARD-BIOLOGY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 207 | `BOARD-BIOLOGY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 208 | `BOARD-BIOLOGY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 209 | `BOARD-BIOLOGY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
-| 210 | `BOARD-BIOLOGY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟡 `questions.txt added without latex` | 🖼️ 1.png–25.png (25 files) |
+| 203 | `BOARD-BIOLOGY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 204 | `BOARD-BIOLOGY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 205 | `BOARD-BIOLOGY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 206 | `BOARD-BIOLOGY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 207 | `BOARD-BIOLOGY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 208 | `BOARD-BIOLOGY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 209 | `BOARD-BIOLOGY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 210 | `BOARD-BIOLOGY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 
 ---
 
