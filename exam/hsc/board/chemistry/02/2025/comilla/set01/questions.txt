@@ -1,25 +1,25 @@
-1 | 500 PPM H<sub>2</sub>SO<sub>4</sub> দ্রবণের মোলার ঘনমাত্রা কত? [Chapter 3: পরিমাণগত রসায়ন] | 0.00205 M | 0.0051 M | 0.00801 M | 0.0102 M |
-2 | নিচের কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ? [Chapter 3: পরিমাণগত রসায়ন] | KMnO<sub>4</sub> | NaOH | H<sub>2</sub> C<sub>2</sub> O 4 | C 6 H 5 COONa |
-3 | নিচের কোনটি জারক ও বিজারক উভয় হিসেবে কাজ করে? [Chapter 3: পরিমাণগত রসায়ন] | SnCl 2 | H<sub>2</sub>O<sub>2</sub> | FeCl 3 | K I |
+1 | 500 ppm H<sub>2</sub>SO<sub>4</sub> দ্রবণের মোলার ঘনমাত্রা কত? [Chapter 3: পরিমাণগত রসায়ন] | 0.00205 M | 0.0051 M | 0.00801 M | 0.0102 M |
+2 | নিচের কোনটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ? [Chapter 3: পরিমাণগত রসায়ন] | KMnO<sub>4</sub> | NaOH | H<sub>2</sub>C<sub>2</sub>O<sub>4</sub> | C<sub>6</sub>H<sub>5</sub>COONa |
+3 | নিচের কোনটি জারক ও বিজারক উভয় হিসেবে কাজ করে? [Chapter 3: পরিমাণগত রসায়ন] | SnCl<sub>2</sub> | H<sub>2</sub>O<sub>2</sub> | FeCl<sub>3</sub> | KI |
 4 | KMnO<sub>4</sub> + FeC<sub>2</sub>O<sub>4</sub> + H<sub>2</sub>SO<sub>4</sub> ⟶ উৎপাদ। এই বিক্রিয়ায় সমতাকৃত সমীকরণে জারক ও বিজারকের মোল সংখ্যা যথাক্রমে- [Chapter 3: পরিমাণগত রসায়ন] | 2 ও 3 | 2 ও 6 | 3 ও 5 | 3 ও 6 |
-5 | নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও: K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + KI + H<sub>2</sub>SO<sub>4</sub> ⟶ Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + … . . Q. বিক্রিয়াটিতে বিজারক মোট কতটি e - দান করে? [Chapter 3: পরিমাণগত রসায়ন] | 3 | 6 | 8 | 10 |
-6 | নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও: K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + KI + H<sub>2</sub>SO<sub>4</sub> ⟶ Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + … . . Q. উৎপন্ন জারক কোনটি? [Chapter 3: পরিমাণগত রসায়ন] | I - | Cr 3 + | Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | I<sub>2</sub> |
-7 | FeSO<sub>4</sub> দ্রবণে 50 A বিদ্যুৎ 10 মিনিট ধরে চালনা করলে ক্যথোডে কী পরিমাণ ধাতু জমা হবে? [Chapter 4: তড়িৎ রসায়ন] | 8.68 g | 9.23 g | 9.83 g | 10.23 g |
+5 | নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও: <br>K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + KI + H<sub>2</sub>SO<sub>4</sub> ⟶ Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + ..... <br>Q. বিক্রিয়াটিতে বিজারক মোট কতটি e<sup>-</sup> দান করে? [Chapter 3: পরিমাণগত রসায়ন] | 3 | 6 | 8 | 10 |
+6 | নিচের উদ্দীপক হতে প্রশ্নের উত্তর দাও: <br>K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> + KI + H<sub>2</sub>SO<sub>4</sub> ⟶ Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> + ..... <br>Q. উৎপন্ন জারক কোনটি? [Chapter 3: পরিমাণগত রসায়ন] | I<sup>-</sup> | Cr<sup>3+</sup> | Cr<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> | I<sub>2</sub> |
+7 | FeSO<sub>4</sub> দ্রবণে 50 A বিদ্যুৎ 10 মিনিট ধরে চালনা করলে ক্যাথোডে কী পরিমাণ ধাতু জমা হবে? [Chapter 4: তড়িৎ রসায়ন] | 8.68 g | 9.23 g | 9.83 g | 10.23 g |
 8 | নিকেলের জারণ বিভবের মান কত? [Chapter 4: তড়িৎ রসায়ন] | +0.76 V | -0.80 V | +0.44 V | +0.24 V |
-9 | 1 মোল গলিত Al 2 O<sub>3</sub> এ ভিতরে কত ফ্যারাড তড়িৎ চালনা করলে সম্পূর্ণ ধাতু ক্যাথোডে জমা হবে? [Chapter 4: তড়িৎ রসায়ন] | 1F | 3F | 4F | 6F |
-10 | কোনটি আগে চার্জমুক্ত হবে? [Chapter 4: তড়িৎ রসায়ন] | Cu<sup>2+</sup> | H<sup>+</sup> | Pb 2 + | Na<sup>+</sup> |
-11 | 10 6 mL পানিতে 30 g MgSO 4 দ্রবীভূত থাকলে খরতার মাত্রা কত PPM? [Chapter 1: পরিবেশ রসায়ন] | 20 | 25 | 30 | 50 |
-12 | নিচের কোন মিশ্রণ ডাল্টনের আংশিক চাপ সূত্র মেনে চলে না (সকলেই গ্যাস)? [Chapter 1: পরিবেশ রসায়ন] | HCl , NH<sub>3</sub> | O<sub>2</sub> , N<sub>2</sub> | HCl , O<sub>2</sub> | CH<sub>4</sub> , CO<sub>2</sub> |
-13 | উভধর্মী উপাদান- <br>i. H<sub>2</sub> PO 3 - <br>ii. H<sub>2</sub> BO 3 - <br>iii. H<sub>2</sub> PO 4 - <br>নিচের কোনটি সঠিক? | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
-14 | CH 3 COCH 3 যৌগে অক্সিজেন পরমাণুর সংকরায়ন কোনটি? [Chapter 2: জৈব রসায়ন] | sp | sp<sup>2</sup> | sp<sup>3</sup> | sp<sup>3</sup>d |
-15 | STP তে A গ্যাসের ঘনত্ব 1.429 g L - 1 হলে ঐ গ্যাসের RMS বেগ কত ms - 1 ? [Chapter 1: পরিবেশ রসায়ন] | 421.21 | 461.21 | 483.83 | 521.21 |
-16 | নিচের কোনটি সর্বাপেক্ষা দুর্বল অনুবন্ধী ক্ষারক? [Chapter 1: পরিবেশ রসায়ন] | SO 4 2 - | CO 3 2 - | ClO 4 - | NO 3 - |
-17 | H<sub>2</sub>O + HCl ⇌ H<sub>3</sub>O<sup>+</sup> + Cl - বিক্রিয়াটির ক্ষেত্রে- <br>i. H<sub>3</sub>O<sup>+</sup> অনুবন্ধী অম্ল <br>ii. বিক্রিয়াটিতে H<sub>2</sub>O ক্ষারক <br>iii. Cl - অনুবন্ধী ক্ষারক <br>নিচের কোনটি সঠিক? [Chapter 1: পরিবেশ রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-18 | C n H<sub>2</sub> n - 2 সাধারণ সংকেত দ্বারা কোন কোন কার্যকরী মূলকবিশিষ্ট যৌগ পাওয়া যায়? <br>i. অ্যালকাইন <br>ii. সাইক্লো এলকিন <br>iii. অ্যালকিন <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
-19 | CH 3 - CH = CH 2 + HBr → R 2 O<sub>2</sub> প্রধান উৎপাদ (P). P কোনটি? [Chapter 2: জৈব রসায়ন] | CH 3 - CHBr - CH 3 | CH 3 - CHBr - CH 2 Br | CH 3 - CH 2 - CH 3 | CH 3 - CH 2 - CH 2 Br |
+9 | 1 মোল গলিত Al<sub>2</sub>O<sub>3</sub> এ ভিতরে কত ফ্যারাড তড়িৎ চালনা করলে সম্পূর্ণ ধাতু ক্যাথোডে জমা হবে? [Chapter 4: তড়িৎ রসায়ন] | 1F | 3F | 4F | 6F |
+10 | কোনটি আগে চার্জমুক্ত হবে? [Chapter 4: তড়িৎ রসায়ন] | Cu<sup>2+</sup> | H<sup>+</sup> | Pb<sup>2+</sup> | Na<sup>+</sup> |
+11 | 10<sup>6</sup> mL পানিতে 30 g MgSO<sub>4</sub> দ্রবীভূত থাকলে খরতার মাত্রা কত ppm? [Chapter 1: পরিবেশ রসায়ন] | 20 | 25 | 30 | 50 |
+12 | নিচের কোন মিশ্রণ ডাল্টনের আংশিক চাপ সূত্র মেনে চলে না (সকলেই গ্যাস)? [Chapter 1: পরিবেশ রসায়ন] | HCl, NH<sub>3</sub> | O<sub>2</sub>, N<sub>2</sub> | HCl, O<sub>2</sub> | CH<sub>4</sub>, CO<sub>2</sub> |
+13 | উভধর্মী উপাদান- <br>i. H<sub>2</sub>PO<sub>3</sub><sup>-</sup> <br>ii. H<sub>2</sub>BO<sub>3</sub><sup>-</sup> <br>iii. H<sub>2</sub>PO<sub>4</sub><sup>-</sup> <br>নিচের কোনটি সঠিক? [Chapter 1: পরিবেশ রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+14 | CH<sub>3</sub>COCH<sub>3</sub> যৌগে অক্সিজেন পরমাণুর সংকরায়ন কোনটি? [Chapter 2: জৈব রসায়ন] | sp | sp<sup>2</sup> | sp<sup>3</sup> | sp<sup>3</sup>d |
+15 | STP তে A গ্যাসের ঘনত্ব 1.429 g L<sup>-1</sup> হলে ঐ গ্যাসের RMS বেগ কত ms<sup>-1</sup>? [Chapter 1: পরিবেশ রসায়ন] | 421.21 | 461.21 | 483.83 | 521.21 |
+16 | নিচের কোনটি সর্বাপেক্ষা দুর্বল অনুবন্ধী ক্ষারক? [Chapter 1: পরিবেশ রসায়ন] | SO<sub>4</sub><sup>2-</sup> | CO<sub>3</sub><sup>2-</sup> | ClO<sub>4</sub><sup>-</sup> | NO<sub>3</sub><sup>-</sup> |
+17 | H<sub>2</sub>O + HCl ⇌ H<sub>3</sub>O<sup>+</sup> + Cl<sup>-</sup> বিক্রিয়াটির ক্ষেত্রে- <br>i. H<sub>3</sub>O<sup>+</sup> অনুবন্ধী অম্ল <br>ii. বিক্রিয়াটিতে H<sub>2</sub>O ক্ষারক <br>iii. Cl<sup>-</sup> অনুবন্ধী ক্ষারক <br>নিচের কোনটি সঠিক? [Chapter 1: পরিবেশ রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+18 | C<sub>n</sub>H<sub>2n-2</sub> সাধারণ সংকেত দ্বারা কোন কোন কার্যকরী মূলকবিশিষ্ট যৌগ পাওয়া যায়? <br>i. অ্যালকাইন <br>ii. সাইক্লো এলকিন <br>iii. অ্যালকিন <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | i ও iii | ii ও iii | i, ii ও iii |
+19 | CH<sub>3</sub>-CH=CH<sub>2</sub> + HBr ⟶ (R<sub>2</sub>O<sub>2</sub>) প্রধান উৎপাদ (P)। <br>P কোনটি? [Chapter 2: জৈব রসায়ন] | CH<sub>3</sub>-CHBr-CH<sub>3</sub> | CH<sub>3</sub>-CHBr-CH<sub>2</sub>Br | CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>3</sub> | CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>Br |
 20 | 2-মিথাইল বিউটিন-2 যৌগের ওজোনীকরণ বিক্রিয়ায় উৎপন্ন হয়- <br>i. মিথান্যাল <br>ii. ইথান্যাল <br>iii. প্রোপানোন <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
-21 | S N 1 বিক্রিয়ার ক্ষেত্রে- <br>i. সক্রিয়তার ক্রম- R 3 CX > R 2 CHX > RCH 2 X > CH 3 X <br>ii. দুই ধাপে সম্পন্ন হয় <br>iii. বিক্রিয়াটি প্রথম ক্রমের <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
-22 | নিচের কোনটি বেনজিন চক্রের সক্রিয়তা অধিক বৃদ্ধি করে? [Chapter 2: জৈব রসায়ন] | - NR 2 | - NH 2 | -CHO | -COOH |
+21 | S<sub>N</sub>1 বিক্রিয়ার ক্ষেত্রে- <br>i. সক্রিয়তার ক্রম- R<sub>3</sub>CX > R<sub>2</sub>CHX > RCH<sub>2</sub>X > CH<sub>3</sub>X <br>ii. দুই ধাপে সম্পন্ন হয় <br>iii. বিক্রিয়াটি প্রথম ক্রমের <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+22 | নিচের কোনটি বেনজিন চক্রের সক্রিয়তা অধিক বৃদ্ধি করে? [Chapter 2: জৈব রসায়ন] | -NR<sub>2</sub> | -NH<sub>2</sub> | -CHO | -COOH |
 23 | উদ্দীপক হতে প্রশ্নের উত্তর দাও: <br>Q. A এর মোট বন্ধন কতটি? [Chapter 2: জৈব রসায়ন] | 6 | 12 | 15 | 18 |
-24 | উদ্দীপক হতে প্রশ্নের উত্তর দাও: <br>Q. রিক্রিয়াটির ক্ষেত্রে- <br>i. প্রতিস্থাপন বিক্রিয়ায় A অপেক্ষা B এর সক্রিয়তা বেশি। <br>ii. ফ্রিডেল ক্রাফট বিক্রিয়া <br>iii. B হতে সরাসরি A প্রস্তুত করা যায় <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
+24 | উদ্দীপক হতে প্রশ্নের উত্তর দাও: <br>Q. বিক্রিয়াটির ক্ষেত্রে- <br>i. প্রতিস্থাপন বিক্রিয়ায় A অপেক্ষা B এর সক্রিয়তা বেশি <br>ii. ফ্রিডেল ক্রাফট বিক্রিয়া <br>iii. B হতে সরাসরি A প্রস্তুত করা যায় <br>নিচের কোনটি সঠিক? [Chapter 2: জৈব রসায়ন] | i ও ii | ii ও iii | i ও iii | i, ii ও iii |
 25 | নিচের কোন যৌগটি হ্যালোফর্ম বিক্রিয়া দেয় না? [Chapter 2: জৈব রসায়ন] | ইথান্যাল | প্রোপানোন | প্রোপানল-1 | প্রোপানল-2 |
