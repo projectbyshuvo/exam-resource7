@@ -1,8 +1,8 @@
 # HSC Board MCQ Migration & Master Asset Tracking Log
 
-**Last Updated:** September 12, 2026
+**Last Updated:** September 13, 2026
 **Repository:** `https://github.com/projectbyshuvo/exam-resource7.git` (branch: `main`)  
-**Latest Push Commit:** 8d3ac9d
+**Latest Push Commit:** 3bfa566
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Subject | Total Sets | Questions Status | Total PNG Images | Visual Status | Overall Progress |
 | :--- | :---: | :--- | :---: | :---: | :--- |
-| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (104 LaTeX, 0 HTML, 0 queued) | 2,509 files | 🟢 | **100% LaTeX Formatted** |
+| **HSC Chemistry** | **104 sets** | 104 / 104 with questions.txt (104 LaTeX, 0 HTML, 0 queued) | 2,486 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Biology** | **106 sets** | 106 / 106 with questions.txt (106 LaTeX, 0 HTML, 0 queued) | 2,575 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Physics** | **119 sets** | 119 / 119 with questions.txt (119 LaTeX, 0 HTML, 0 queued) | 2,973 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC Higher Mathematics** | **103 sets** | 103 / 103 with questions.txt (103 LaTeX, 0 HTML, 0 queued) | 2,574 files | 🟢 | **100% LaTeX Formatted** |
 | **HSC ICT** | **43 sets** | 43 / 43 with questions.txt (43 LaTeX, 0 HTML, 0 queued) | 1,075 files | 🟢 | **100% LaTeX Formatted** |
-| **TOTAL REPOSITORY** | **475 sets** | **475 / 475 with questions.txt (475 LaTeX, 0 HTML)** | **11,706 files** | 🟢 | **100% Overall Complete with LaTeX** |
+| **TOTAL REPOSITORY** | **475 sets** | **475 / 475 with questions.txt (475 LaTeX, 0 HTML)** | **11,683 files** | 🟢 | **100% Overall Complete with LaTeX** |
 
 ---
 
@@ -212,8 +212,8 @@
 | 94 | `BOARD-CHEMISTRY-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 95 | `BOARD-CHEMISTRY-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 96 | `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 97 | `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
-| 98 | `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 97 | [x] `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
+| 98 | [x] `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 2.png, 3.png (2 files) |
 | 99 | `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 100 | `BOARD-CHEMISTRY-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 101 | `BOARD-CHEMISTRY-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
@@ -628,3 +628,10 @@
 3. **LaTeX Math Syntax:** Standard KaTeX inline formatting with $...$ for formulas, exponents, and chemical species.
 4. **Layout:** Multi-statement questions use <br>i. ... <br>ii. ... <br>iii. ... <br>নিচের কোনটি সঠিক?.
 5. **Formulas:** Bohr quantization $mvr = \frac{nh}{2\pi}$, Rydberg $\bar{\nu} = R_H(\frac{1}{n_1^2} - \frac{1}{n_2^2})$, and solubility $K_{sp} = 108S^5$.
+
+---
+
+## 6. Ground-Truth Manual Audit & Verification Checklist
+
+- [x] **`BOARD-CHEMISTRY-01-2017-BARISAL-set01`** (Exams 97 | Chemistry 1st Paper 2017 Barisal): Manually verified and updated against board images.
+- [x] **`BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01`** (Exams 98 | Chemistry 1st Paper 2017 Chittagong): Manually verified and updated against board images; unneeded text-only assets purged (only genuine stimuli `2.png`, `3.png` retained).
