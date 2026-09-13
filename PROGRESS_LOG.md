@@ -2,7 +2,7 @@
 
 **Last Updated:** September 13, 2026
 **Repository:** `https://github.com/projectbyshuvo/exam-resource7.git` (branch: `main`)  
-**Latest Push Commit:** 3bfa566
+**Latest Push Commit:** 326e56b
 
 ---
 
@@ -214,12 +214,12 @@
 | 96 | `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 97 | [x] `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
 | 98 | [x] `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 2.png, 3.png (2 files) |
-| 99 | `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 100 | `BOARD-CHEMISTRY-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 101 | `BOARD-CHEMISTRY-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 102 | `BOARD-CHEMISTRY-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 103 | `BOARD-CHEMISTRY-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 104 | `BOARD-CHEMISTRY-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 99 | [x] `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 100 | [x] `BOARD-CHEMISTRY-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 101 | [x] `BOARD-CHEMISTRY-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 102 | [x] `BOARD-CHEMISTRY-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 103 | [x] `BOARD-CHEMISTRY-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 104 | [x] `BOARD-CHEMISTRY-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 
 ---
 
@@ -635,3 +635,9 @@
 
 - [x] **`BOARD-CHEMISTRY-01-2017-BARISAL-set01`** (Exams 97 | Chemistry 1st Paper 2017 Barisal): Manually verified and updated against board images.
 - [x] **`BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01`** (Exams 98 | Chemistry 1st Paper 2017 Chittagong): Manually verified and updated against board images; unneeded text-only assets purged (only genuine stimuli `2.png`, `3.png` retained).
+- [x] **`BOARD-CHEMISTRY-01-2017-COMILLA-set01`** (Exams 99 | Chemistry 1st Paper 2017 Comilla): Visually audited against all 25 images; corrected KaTeX formulas and stimulus formatting (genuine stimuli: `2.png`, `3.png`, `8.png`, `17.png`).
+- [x] **`BOARD-CHEMISTRY-01-2017-DHAKA-set01`** (Exams 100 | Chemistry 1st Paper 2017 Dhaka): Visually audited against all 25 images; resolved mojibake, verified LaTeX and chapters (genuine stimuli: `4.png`, `5.png`).
+- [x] **`BOARD-CHEMISTRY-01-2017-DINAJPUR-set01`** (Exams 101 | Chemistry 1st Paper 2017 Dinajpur): Visually audited against all 25 images; verified chemical species, stems, and Hess cycle (genuine stimulus: `21.png`).
+- [x] **`BOARD-CHEMISTRY-01-2017-JESSORE-set01`** (Exams 102 | Chemistry 1st Paper 2017 Jessore): Visually audited against all 25 images; corrected reaction equations, spelling, and activation energy curve (genuine stimulus: `12.png`).
+- [x] **`BOARD-CHEMISTRY-01-2017-RAJSHAHI-set01`** (Exams 103 | Chemistry 1st Paper 2017 Rajshahi): Visually audited against all 25 images; fixed chemical complex notation and periodic table grid (genuine stimuli: `1.png`, `2.png`).
+- [x] **`BOARD-CHEMISTRY-01-2017-SYLHET-set01`** (Exams 104 | Chemistry 1st Paper 2017 Sylhet): Visually audited against all 25 images; verified all formulas, units, and Unicode normalization (0 genuine stimuli, all pure-text MCQs).

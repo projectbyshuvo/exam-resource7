@@ -3,7 +3,7 @@
 This document tracks human manual verification against original board exam images.
 When a set is manually checked and updated, mark its checkbox as `[x]`.
 
-> **Total Sets:** 475 | **Manually Checked:** 2 | **Remaining Unchecked:** 473
+> **Total Sets:** 475 | **Manually Checked:** 8 | **Remaining Unchecked:** 467
 
 ---
 
@@ -11,12 +11,12 @@ When a set is manually checked and updated, mark its checkbox as `[x]`.
 
 - [x] `chemistry/01/2017/barisal/set01` — **Manually Audited & Verified**
 - [x] `chemistry/01/2017/chittagong/set01` — **Manually Audited & Verified**
-- [ ] `chemistry/01/2017/comilla/set01`
-- [ ] `chemistry/01/2017/dhaka/set01`
-- [ ] `chemistry/01/2017/dinajpur/set01`
-- [ ] `chemistry/01/2017/jessore/set01`
-- [ ] `chemistry/01/2017/rajshahi/set01`
-- [ ] `chemistry/01/2017/sylhet/set01`
+- [x] `chemistry/01/2017/comilla/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2017/dhaka/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2017/dinajpur/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2017/jessore/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2017/rajshahi/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2017/sylhet/set01` — **Manually Audited & Verified**
 - [ ] `chemistry/01/2019/barisal/set01`
 - [ ] `chemistry/01/2019/chittagong/set01`
 - [ ] `chemistry/01/2019/comilla/set01`
