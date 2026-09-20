@@ -12,6 +12,7 @@
 **Latest Push Commit:** ea998a8
 **Latest Push Commit:** af156c8
 **Latest Push Commit:** c9509c5
+**Latest Push Commit:** 213af1d
 
 ---
 
@@ -177,15 +178,15 @@
 | 50 | `BOARD-CHEMISTRY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 51 | `BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 52 | `BOARD-CHEMISTRY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 53 | `BOARD-CHEMISTRY-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | ⚠️ 12.png, 13.png (2 files) |
-| 54 | `BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | ⚠️ 10.png (1 files) |
-| 55 | `BOARD-CHEMISTRY-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | ⚠️ 24.png, 25.png (2 files) |
-| 56 | `BOARD-CHEMISTRY-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 57 | `BOARD-CHEMISTRY-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 58 | `BOARD-CHEMISTRY-01-2025-JESSORE-set01` | 1st Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 59 | `BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01` | 1st Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 60 | `BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01` | 1st Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 61 | `BOARD-CHEMISTRY-01-2025-SYLHET-set01` | 1st Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 53 | [x] `BOARD-CHEMISTRY-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 12.png, 13.png (2 files) |
+| 54 | [x] `BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 10.png (1 files) |
+| 55 | [x] `BOARD-CHEMISTRY-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 24.png, 25.png (2 files) |
+| 56 | [x] `BOARD-CHEMISTRY-01-2025-DHAKA-set01` | 1st Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 57 | [x] `BOARD-CHEMISTRY-01-2025-DINAJPUR-set01` | 1st Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 58 | [x] `BOARD-CHEMISTRY-01-2025-JESSORE-set01` | 1st Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 59 | [x] `BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01` | 1st Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 60 | [x] `BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01` | 1st Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 61 | [x] `BOARD-CHEMISTRY-01-2025-SYLHET-set01` | 1st Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 62 | [x] `BOARD-CHEMISTRY-01-2023-BARISAL-set01` | 1st Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 63 | [x] `BOARD-CHEMISTRY-01-2023-CHITTAGONG-set01` | 1st Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 64 | [x] `BOARD-CHEMISTRY-01-2023-COMILLA-set01` | 1st Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -685,4 +686,13 @@
 - [x] **`BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01`** (Exams 68 | Chemistry 1st Paper 2023 Mymensingh): Visually audited against all 25 images; repaired broken delimiters in inequality chains, fixed reaction arrows, and formatted vertical fractions (0 genuine stimuli, all pure-text MCQs).
 - [x] **`BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01`** (Exams 69 | Chemistry 1st Paper 2023 Rajshahi): Visually audited against all 25 images; fixed completely incorrect option choices in Q24, repaired dangling equilibrium arrows, and formatted quantization equations (0 genuine stimuli, all pure-text MCQs).
 - [x] **`BOARD-CHEMISTRY-01-2023-SYLHET-set01`** (Exams 70 | Chemistry 1st Paper 2023 Sylhet): Visually audited against all 25 images; repaired tab character corruptions, fixed crude slash fractions, and verified solubility curve graphs (genuine stimuli: `2.png`, `3.png`, `10.png`, `11.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-BARISAL-set01`** (Exams 53 | Chemistry 1st Paper 2025 Barisal): Text-audited with 2 available images (12.png, 13.png); fixed \text{} for all chemical formulas, corrected reaction pathway arrows with \xrightarrow{}, standardized ionic states (genuine stimuli: `12.png`, `13.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01`** (Exams 54 | Chemistry 1st Paper 2025 Chittagong): Text-audited with 1 available image (10.png); fixed tab corruption in \text{atm}, replaced Unicode square root with \sqrt{}, standardized chemical text mode (genuine stimuli: `10.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-COMILLA-set01`** (Exams 55 | Chemistry 1st Paper 2025 Comilla): Text-audited with 2 available images (24.png, 25.png); fixed tab corruption in units, reformatted multi-statement questions, standardized \text{} for all formulas (genuine stimuli: `24.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-DHAKA-set01`** (Exams 56 | Chemistry 1st Paper 2025 Dhaka): Visually audited against all 25 images; fixed italic chemical formulas to \text{} format, corrected spin quantum number fractions, standardized ionic notation (genuine stimuli: `17.png`, `18.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-DINAJPUR-set01`** (Exams 57 | Chemistry 1st Paper 2025 Dinajpur): Visually audited against all 25 images; fixed tab corruption in Q25 \text{atm}, corrected chemical formulas to \text{} format, verified reaction arrows (genuine stimuli: `1.png`, `15.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-JESSORE-set01`** (Exams 58 | Chemistry 1st Paper 2025 Jessore): Visually audited against all 25 images; fixed stem text mismatches, corrected spelling to match images, standardized pH and temperature formatting (genuine stimuli: `15.png`, `16.png`, `24.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01`** (Exams 59 | Chemistry 1st Paper 2025 Mymensingh): Visually audited against all 25 images; fixed option text mismatches, corrected chemical reaction formatting, standardized isotope notation (genuine stimuli: `17.png`, `18.png`, `24.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01`** (Exams 60 | Chemistry 1st Paper 2025 Rajshahi): Visually audited against all 25 images; CRITICAL FIX — repaired extensive broken $ delimiters across Q3, Q4, Q6, Q10, Q12, Q16, Q23, Q24 missing opening $ signs; fixed hybridization options, isotope notation, quantum number fractions (genuine stimuli: `7.png`, `9.png`, `10.png`, `13.png`).
+- [x] **`BOARD-CHEMISTRY-01-2025-SYLHET-set01`** (Exams 61 | Chemistry 1st Paper 2025 Sylhet): Visually audited against all 25 images; fixed tab corruption in Q7/Q20, corrected chemical formulas to \text{} format, standardized spin quantum fractions (genuine stimuli: `14.png`, `15.png`, `22.png`, `23.png`).
 
