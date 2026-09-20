@@ -13,6 +13,7 @@
 **Latest Push Commit:** af156c8
 **Latest Push Commit:** c9509c5
 **Latest Push Commit:** 213af1d
+**Latest Push Commit:** 4b4951c
 
 ---
 
@@ -162,22 +163,22 @@
 | 34 | `BOARD-CHEMISTRY-02-2021-MYMENSINGH-set01` | 2nd Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 35 | `BOARD-CHEMISTRY-02-2021-RAJSHAHI-set01` | 2nd Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 36 | `BOARD-CHEMISTRY-02-2021-SYLHET-set01` | 2nd Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 37 | `BOARD-CHEMISTRY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 38 | `BOARD-CHEMISTRY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 39 | `BOARD-CHEMISTRY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 40 | `BOARD-CHEMISTRY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 41 | `BOARD-CHEMISTRY-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 42 | `BOARD-CHEMISTRY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 43 | `BOARD-CHEMISTRY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 44 | `BOARD-CHEMISTRY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 45 | `BOARD-CHEMISTRY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 46 | `BOARD-CHEMISTRY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 47 | `BOARD-CHEMISTRY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 48 | `BOARD-CHEMISTRY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 49 | `BOARD-CHEMISTRY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 50 | `BOARD-CHEMISTRY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 51 | `BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 52 | `BOARD-CHEMISTRY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 37 | [x] `BOARD-CHEMISTRY-02-2019-BARISAL-set01` | 2nd Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 38 | [x] `BOARD-CHEMISTRY-02-2019-CHITTAGONG-set01` | 2nd Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 39 | [x] `BOARD-CHEMISTRY-02-2019-COMILLA-set01` | 2nd Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 40 | [x] `BOARD-CHEMISTRY-02-2019-DHAKA-set01` | 2nd Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 41 | [x] `BOARD-CHEMISTRY-02-2019-DINAJPUR-set01` | 2nd Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 42 | [x] `BOARD-CHEMISTRY-02-2019-JESSORE-set01` | 2nd Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 43 | [x] `BOARD-CHEMISTRY-02-2019-RAJSHAHI-set01` | 2nd Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 44 | [x] `BOARD-CHEMISTRY-02-2019-SYLHET-set01` | 2nd Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 45 | [x] `BOARD-CHEMISTRY-02-2017-BARISAL-set01` | 2nd Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 46 | [x] `BOARD-CHEMISTRY-02-2017-CHITTAGONG-set01` | 2nd Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 47 | [x] `BOARD-CHEMISTRY-02-2017-COMILLA-set01` | 2nd Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 48 | [x] `BOARD-CHEMISTRY-02-2017-DHAKA-set01` | 2nd Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 49 | [x] `BOARD-CHEMISTRY-02-2017-DINAJPUR-set01` | 2nd Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 50 | [x] `BOARD-CHEMISTRY-02-2017-JESSORE-set01` | 2nd Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 51 | [x] `BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01` | 2nd Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 52 | [x] `BOARD-CHEMISTRY-02-2017-SYLHET-set01` | 2nd Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 53 | [x] `BOARD-CHEMISTRY-01-2025-BARISAL-set01` | 1st Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 12.png, 13.png (2 files) |
 | 54 | [x] `BOARD-CHEMISTRY-01-2025-CHITTAGONG-set01` | 1st Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 10.png (1 files) |
 | 55 | [x] `BOARD-CHEMISTRY-01-2025-COMILLA-set01` | 1st Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 24.png, 25.png (2 files) |
@@ -695,4 +696,20 @@
 - [x] **`BOARD-CHEMISTRY-01-2025-MYMENSINGH-set01`** (Exams 59 | Chemistry 1st Paper 2025 Mymensingh): Visually audited against all 25 images; fixed option text mismatches, corrected chemical reaction formatting, standardized isotope notation (genuine stimuli: `17.png`, `18.png`, `24.png`, `25.png`).
 - [x] **`BOARD-CHEMISTRY-01-2025-RAJSHAHI-set01`** (Exams 60 | Chemistry 1st Paper 2025 Rajshahi): Visually audited against all 25 images; CRITICAL FIX — repaired extensive broken $ delimiters across Q3, Q4, Q6, Q10, Q12, Q16, Q23, Q24 missing opening $ signs; fixed hybridization options, isotope notation, quantum number fractions (genuine stimuli: `7.png`, `9.png`, `10.png`, `13.png`).
 - [x] **`BOARD-CHEMISTRY-01-2025-SYLHET-set01`** (Exams 61 | Chemistry 1st Paper 2025 Sylhet): Visually audited against all 25 images; fixed tab corruption in Q7/Q20, corrected chemical formulas to \text{} format, standardized spin quantum fractions (genuine stimuli: `14.png`, `15.png`, `22.png`, `23.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-BARISAL-set01`** (Exams 45 | Chemistry 2nd Paper 2017 Barisal): Visually audited against all 25 images; standardized KaTeX formulas with \text{}, repaired unit spacing and concentration values, fixed precursor descriptions, aligned multi-statement formatting (genuine stimuli: `4.png`, `5.png`, `16.png`, `17.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-CHITTAGONG-set01`** (Exams 46 | Chemistry 2nd Paper 2017 Chittagong): Visually audited against all 25 images; converted unstyled formulas to \text{}, fixed carbonium stability sequences, repaired Van der Waals equation formatting with \frac{}{}, standardized reaction schemes (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-02-2017-COMILLA-set01`** (Exams 47 | Chemistry 2nd Paper 2017 Comilla): Visually audited against all 25 images; replaced unstyled formulas with standard \text{}, fixed tab corruption in units, converted equilibrium arrows to \rightleftharpoons, standardized hydrate representations (genuine stimuli: `2.png`, `7.png`, `10.png`, `11.png`, `17.png`, `18.png`, `22.png`, `23.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-DHAKA-set01`** (Exams 48 | Chemistry 2nd Paper 2017 Dhaka): Visually audited against all 25 images; wrapped chemical formulas with \text{}, formatted unit spaces in erg K^{-1} mol^{-1}, aligned multi-statement formatting, standardized ozonolysis reaction schemes (genuine stimuli: `1.png`, `18.png`, `19.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-DINAJPUR-set01`** (Exams 49 | Chemistry 2nd Paper 2017 Dinajpur): Visually audited against all 25 images; replaced italicized elements with \text{}, standardized unit formatting, repaired reaction arrows, aligned multi-statement questions, and formatted Van der Waals fraction expressions (genuine stimuli: `8.png`, `10.png`, `14.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-JESSORE-set01`** (Exams 50 | Chemistry 2nd Paper 2017 Jessore): Visually audited against all 25 images; standardized chemical formulas into upright \text{}, corrected degree/temperature notations, transcribed stem text to match images, repaired hydration formulas with \cdot (genuine stimuli: `21.png`, `22.png`, `23.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-RAJSHAHI-set01`** (Exams 51 | Chemistry 2nd Paper 2017 Rajshahi): Visually audited against all 25 images; re-wrote reaction schemes with \xrightarrow{}, fixed mathematical symbols and units, aligned multi-statement layouts, corrected OCR wording (genuine stimuli: `11.png`).
+- [x] **`BOARD-CHEMISTRY-02-2017-SYLHET-set01`** (Exams 52 | Chemistry 2nd Paper 2017 Sylhet): Visually audited against all 25 images; CRITICAL FIX — repaired raw || salt bridge notation to \parallel in Q18 and Q19 to preserve 6 pipe delimiters; fixed tab corruption in \text{atm}, aligned chemical element text mode (genuine stimuli: `12.png`, `13.png`, `24.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-BARISAL-set01`** (Exams 37 | Chemistry 2nd Paper 2019 Barisal): Visually audited against all 25 images; standardized chemical formulas with \text{}, formatted units with spacing, repaired Van der Waals equation formatting, reconstructed Grignard reaction schemes (genuine stimuli: `18.png`, `21.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-CHITTAGONG-set01`** (Exams 38 | Chemistry 2nd Paper 2019 Chittagong): Visually audited against all 25 images; repaired tab corruption in \text{atm}, converted chemical symbols and functional groups to \text{}, aligned multi-statement formatting, standardized mineral/ceramic formulas (genuine stimuli: `10.png`, `11.png`, `20.png`, `21.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-COMILLA-set01`** (Exams 39 | Chemistry 2nd Paper 2019 Comilla): Visually audited against all 25 images; converted italicized formulas to \text{}, fixed chapter tag for Q3, repaired tab corruption in \text{atm}, formatted galvanic cell notations and ozonolysis schemes (genuine stimuli: `3.png`, `6.png`, `13.png`, `14.png`, `22.png`, `24.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-DHAKA-set01`** (Exams 40 | Chemistry 2nd Paper 2019 Dhaka): Visually audited against all 25 images; formatted chemical formulas and functional groups in \text{}, converted ozonolysis reaction schemes to LaTeX, formatted Nernst equation logarithmic fractions, aligned IUPAC structures (genuine stimuli: `3.png`, `11.png`, `16.png`, `18.png`, `23.png`, `24.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-DINAJPUR-set01`** (Exams 41 | Chemistry 2nd Paper 2019 Dinajpur): Visually audited against all 25 images; removed stray emoji artifacts from chapter tags, repaired chemical formulas in \text{}, formatted Van der Waals fraction options, restructured multi-statement items (genuine stimuli: `18.png`, `19.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-JESSORE-set01`** (Exams 42 | Chemistry 2nd Paper 2019 Jessore): Visually audited against all 25 images; replaced placeholder options with transcribed functional groups/structures, converted Hoffmann degradation schemes to LaTeX, formatted units and degree symbols (genuine stimuli: `10.png`, `17.png`, `18.png`, `20.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-RAJSHAHI-set01`** (Exams 43 | Chemistry 2nd Paper 2019 Rajshahi): Visually audited against all 25 images; repaired tab corruption in \text{atm}, converted chemical formulas to upright \text{}, cleaned galvanic cell notations, formatted hydration formulas with \cdot (genuine stimuli: `2.png`, `4.png`, `5.png`, `6.png`, `13.png`, `14.png`, `23.png`, `24.png`).
+- [x] **`BOARD-CHEMISTRY-02-2019-SYLHET-set01`** (Exams 44 | Chemistry 2nd Paper 2019 Sylhet): Visually audited against all 25 images; converted chemical formulas to \text{}, fixed tab corruption in \text{atm}, aligned multi-statement formatting, faithfully preserved image-exact typings and reaction schemes (genuine stimuli: `5.png`, `6.png`, `12.png`, `16.png`, `18.png`).
 
