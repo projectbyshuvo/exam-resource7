@@ -11,6 +11,7 @@
 **Latest Push Commit:** 5160437
 **Latest Push Commit:** ea998a8
 **Latest Push Commit:** af156c8
+**Latest Push Commit:** c9509c5
 
 ---
 
@@ -189,11 +190,11 @@
 | 63 | [x] `BOARD-CHEMISTRY-01-2023-CHITTAGONG-set01` | 1st Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 64 | [x] `BOARD-CHEMISTRY-01-2023-COMILLA-set01` | 1st Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 65 | [x] `BOARD-CHEMISTRY-01-2023-DHAKA-set01` | 1st Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
-| 66 | `BOARD-CHEMISTRY-01-2023-DINAJPUR-set01` | 1st Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 67 | `BOARD-CHEMISTRY-01-2023-JESSORE-set01` | 1st Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 68 | `BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 69 | `BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 70 | `BOARD-CHEMISTRY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 66 | [x] `BOARD-CHEMISTRY-01-2023-DINAJPUR-set01` | 1st Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 67 | [x] `BOARD-CHEMISTRY-01-2023-JESSORE-set01` | 1st Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 68 | [x] `BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 69 | [x] `BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 70 | [x] `BOARD-CHEMISTRY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 71 | [x] `BOARD-CHEMISTRY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 72 | [x] `BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 73 | [x] `BOARD-CHEMISTRY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -679,4 +680,9 @@
 - [x] **`BOARD-CHEMISTRY-01-2023-CHITTAGONG-set01`** (Exams 63 | Chemistry 1st Paper 2023 Chittagong): Visually audited against all 25 images; repaired equilibrium reaction LaTeX, fixed tab escapes, and standardized periodic table stimulus (genuine stimuli: `1.png`, `2.png`).
 - [x] **`BOARD-CHEMISTRY-01-2023-COMILLA-set01`** (Exams 64 | Chemistry 1st Paper 2023 Comilla): Visually audited against all 25 images; repaired raw arrows outside math mode, standardized periodic and valence tables (genuine stimuli: `2.png`, `3.png`, `23.png`, `24.png`).
 - [x] **`BOARD-CHEMISTRY-01-2023-DHAKA-set01`** (Exams 65 | Chemistry 1st Paper 2023 Dhaka): Visually audited against all 25 images; fixed raw arrows and equilibrium signs outside math mode, aligned portal OCR typos (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2023-DINAJPUR-set01`** (Exams 66 | Chemistry 1st Paper 2023 Dinajpur): Visually audited against all 25 images; corrected tab escapes, repaired equilibrium equations, and standardized periodic table layout (genuine stimuli: `5.png`, `11.png`, `12.png`).
+- [x] **`BOARD-CHEMISTRY-01-2023-JESSORE-set01`** (Exams 67 | Chemistry 1st Paper 2023 Jessore): Visually audited against all 25 images; resolved major fabricated question discrepancies in Q6, Q7, Q18, Q19 and restored true board questions (genuine stimuli: `6.png`, `7.png`, `11.png`, `12.png`, `18.png`, `19.png`).
+- [x] **`BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01`** (Exams 68 | Chemistry 1st Paper 2023 Mymensingh): Visually audited against all 25 images; repaired broken delimiters in inequality chains, fixed reaction arrows, and formatted vertical fractions (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01`** (Exams 69 | Chemistry 1st Paper 2023 Rajshahi): Visually audited against all 25 images; fixed completely incorrect option choices in Q24, repaired dangling equilibrium arrows, and formatted quantization equations (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2023-SYLHET-set01`** (Exams 70 | Chemistry 1st Paper 2023 Sylhet): Visually audited against all 25 images; repaired tab character corruptions, fixed crude slash fractions, and verified solubility curve graphs (genuine stimuli: `2.png`, `3.png`, `10.png`, `11.png`).
 
