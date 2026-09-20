@@ -15,6 +15,7 @@
 **Latest Push Commit:** 213af1d
 **Latest Push Commit:** 4b4951c
 **Latest Push Commit:** ee64279
+**Latest Push Commit:** dac7bc3
 
 ---
 
@@ -137,15 +138,15 @@
 | 7 | `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 8 | `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 9 | `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 10 | `BOARD-CHEMISTRY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 11 | `BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 12 | `BOARD-CHEMISTRY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 13 | `BOARD-CHEMISTRY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 14 | `BOARD-CHEMISTRY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 15 | `BOARD-CHEMISTRY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 16 | `BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 17 | `BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 18 | `BOARD-CHEMISTRY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 10 | [x] `BOARD-CHEMISTRY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 11 | [x] `BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 12 | [x] `BOARD-CHEMISTRY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 13 | [x] `BOARD-CHEMISTRY-02-2023-DHAKA-set01` | 2nd Paper 2023 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 14 | [x] `BOARD-CHEMISTRY-02-2023-DINAJPUR-set01` | 2nd Paper 2023 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 15 | [x] `BOARD-CHEMISTRY-02-2023-JESSORE-set01` | 2nd Paper 2023 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 16 | [x] `BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01` | 2nd Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 17 | [x] `BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01` | 2nd Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 18 | [x] `BOARD-CHEMISTRY-02-2023-SYLHET-set01` | 2nd Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 19 | [x] `BOARD-CHEMISTRY-02-2022-BARISAL-set01` | 2nd Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 20 | [x] `BOARD-CHEMISTRY-02-2022-CHITTAGONG-set01` | 2nd Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 21 | [x] `BOARD-CHEMISTRY-02-2022-COMILLA-set01` | 2nd Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -731,4 +732,13 @@
 - [x] **`BOARD-CHEMISTRY-02-2022-MYMENSINGH-set01`** (Exams 25 | Chemistry 2nd Paper 2022 Mymensingh): Visually audited against all 25 images; fixed tab corruption in \frac{\text{mol}}{\text{L}} and \text{atm}, standardized math fractions and Graham's law, formatted ortho-para directing groups with lone pairs (genuine stimuli: `5.png`, `6.png`).
 - [x] **`BOARD-CHEMISTRY-02-2022-RAJSHAHI-set01`** (Exams 26 | Chemistry 2nd Paper 2022 Rajshahi): Visually audited against all 25 images; corrected major typo in Q13 (Alkyl -> Allyl), fixed tab corruption in \text{cm}^3, standardized unit notations and exponents (genuine stimuli: `25.png`).
 - [x] **`BOARD-CHEMISTRY-02-2022-SYLHET-set01`** (Exams 27 | Chemistry 2nd Paper 2022 Sylhet): Visually audited against all 25 images; revamped chemical representations to \text{}, formatted Grignard reaction schemes, standardized unit spacing and multi-statement formatting (genuine stimuli: `25.png`).
+- [x] **`BOARD-CHEMISTRY-02-2023-BARISAL-set01`** (Exams 10 | Chemistry 2nd Paper 2023 Barisal): Visually audited against all 25 images; converted chemical formulas to \text{}, fixed raw | pipes in galvanic cell notation Q23 to \mid and \parallel, aligned multi-statement formatting, standardized reaction schemes.
+- [x] **`BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01`** (Exams 11 | Chemistry 2nd Paper 2023 Chittagong): Visually audited against all 25 images; converted formulas to \text{}, fixed tab corruption in units, standardized reaction arrows and multi-statement formatting.
+- [x] **`BOARD-CHEMISTRY-02-2023-COMILLA-set01`** (Exams 12 | Chemistry 2nd Paper 2023 Comilla): Visually audited against all 25 images; wrapped formulas and units in \text{}, repaired reaction arrows, aligned multi-statement layouts, formatted cell notations.
+- [x] **`BOARD-CHEMISTRY-02-2023-DHAKA-set01`** (Exams 13 | Chemistry 2nd Paper 2023 Dhaka): Visually audited against all 25 images; converted chemical formulas to \text{}, standardized math fractions, aligned multi-statement formatting and reaction schemes.
+- [x] **`BOARD-CHEMISTRY-02-2023-DINAJPUR-set01`** (Exams 14 | Chemistry 2nd Paper 2023 Dinajpur): Visually audited against all 25 images; standardized chemical formulas with \text{}, formatted units and exponents, aligned multi-statement items, repaired reaction schemes.
+- [x] **`BOARD-CHEMISTRY-02-2023-JESSORE-set01`** (Exams 15 | Chemistry 2nd Paper 2023 Jessore): Visually audited against all 25 images; converted chemical formulas to upright \text{}, aligned multi-statement formatting, formatted ionic charges and electrochemical notations.
+- [x] **`BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01`** (Exams 16 | Chemistry 2nd Paper 2023 Mymensingh): Visually audited against all 25 images; wrapped chemical formulas in \text{}, fixed unit formatting, standardized reaction arrows and multi-statement options.
+- [x] **`BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01`** (Exams 17 | Chemistry 2nd Paper 2023 Rajshahi): Visually audited against all 25 images; converted formulas to \text{}, standardized units and exponents, aligned multi-statement formatting and organic reactions.
+- [x] **`BOARD-CHEMISTRY-02-2023-SYLHET-set01`** (Exams 18 | Chemistry 2nd Paper 2023 Sylhet): Visually audited against all 25 images; converted molecular formulas to \text{}, formatted functional group options, standardized reaction schemes and multi-statement formatting.
 
