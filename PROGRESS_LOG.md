@@ -8,6 +8,7 @@
 **Latest Push Commit:** 7100414
 **Latest Push Commit:** b10e036
 **Latest Push Commit:** 60b85a6
+**Latest Push Commit:** 5160437
 
 ---
 
@@ -191,10 +192,10 @@
 | 68 | `BOARD-CHEMISTRY-01-2023-MYMENSINGH-set01` | 1st Paper 2023 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 69 | `BOARD-CHEMISTRY-01-2023-RAJSHAHI-set01` | 1st Paper 2023 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 70 | `BOARD-CHEMISTRY-01-2023-SYLHET-set01` | 1st Paper 2023 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 71 | `BOARD-CHEMISTRY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 72 | `BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 73 | `BOARD-CHEMISTRY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 74 | `BOARD-CHEMISTRY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 71 | [x] `BOARD-CHEMISTRY-01-2022-BARISAL-set01` | 1st Paper 2022 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 72 | [x] `BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01` | 1st Paper 2022 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 73 | [x] `BOARD-CHEMISTRY-01-2022-COMILLA-set01` | 1st Paper 2022 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 74 | [x] `BOARD-CHEMISTRY-01-2022-DHAKA-set01` | 1st Paper 2022 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 75 | `BOARD-CHEMISTRY-01-2022-DINAJPUR-set01` | 1st Paper 2022 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 76 | `BOARD-CHEMISTRY-01-2022-JESSORE-set01` | 1st Paper 2022 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 77 | `BOARD-CHEMISTRY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
@@ -663,4 +664,8 @@
 - [x] **`BOARD-CHEMISTRY-01-2021-MYMENSINGH-set01`** (Exams 86 | Chemistry 1st Paper 2021 Mymensingh): Visually audited against all 25 images; aligned unitless options, cleaned reaction equations, and matched exact wording (genuine stimuli: valence electron table `22.png`, `23.png`).
 - [x] **`BOARD-CHEMISTRY-01-2021-RAJSHAHI-set01`** (Exams 87 | Chemistry 1st Paper 2021 Rajshahi): Visually audited against all 25 images; standardized variables, added stimulus linebreaks, and converted raw math italics to upright text (genuine stimuli: periodic table grid `24.png`, `25.png`).
 - [x] **`BOARD-CHEMISTRY-01-2021-SYLHET-set01`** (Exams 88 | Chemistry 1st Paper 2021 Sylhet): Visually audited against all 25 images; removed Bengali text from LaTeX math mode and verified all chemical formulas and multi-statements (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2022-BARISAL-set01`** (Exams 71 | Chemistry 1st Paper 2022 Barisal): Visually audited against all 25 images; corrected broken tab escapes, chemical formulas, and energy curve (genuine stimuli: `3.png`, `4.png`, `15.png`).
+- [x] **`BOARD-CHEMISTRY-01-2022-CHITTAGONG-set01`** (Exams 72 | Chemistry 1st Paper 2022 Chittagong): Visually audited against all 25 images; repaired reaction LaTeX arrows, formatted equilibrium and Lewis diagrams (genuine stimuli: `4.png`, `5.png`, `16.png`, `17.png`, `21.png`, `22.png`, `24.png`).
+- [x] **`BOARD-CHEMISTRY-01-2022-COMILLA-set01`** (Exams 73 | Chemistry 1st Paper 2022 Comilla): Visually audited against all 25 images; fixed corrupted tab characters, missing math delimiters, and chemical species (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2022-DHAKA-set01`** (Exams 74 | Chemistry 1st Paper 2022 Dhaka): Visually audited against all 25 images; fixed raw equilibrium arrows, unit syntax, and Bengali orthography (0 genuine stimuli, all pure-text MCQs).
 
