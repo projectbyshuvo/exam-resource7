@@ -2,7 +2,7 @@
 
 **Last Updated:** September 13, 2026
 **Repository:** `https://github.com/projectbyshuvo/exam-resource7.git` (branch: `main`)  
-**Latest Push Commit:** 7100414
+**Latest Push Commit:** b10e036
 
 ---
 
@@ -195,10 +195,10 @@
 | 77 | `BOARD-CHEMISTRY-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 78 | `BOARD-CHEMISTRY-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 79 | `BOARD-CHEMISTRY-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 80 | `BOARD-CHEMISTRY-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 81 | `BOARD-CHEMISTRY-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 82 | `BOARD-CHEMISTRY-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 83 | `BOARD-CHEMISTRY-01-2021-DHAKA-set01` | 1st Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 80 | [x] `BOARD-CHEMISTRY-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 81 | [x] `BOARD-CHEMISTRY-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 82 | [x] `BOARD-CHEMISTRY-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 83 | [x] `BOARD-CHEMISTRY-01-2021-DHAKA-set01` | 1st Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 84 | `BOARD-CHEMISTRY-01-2021-DINAJPUR-set01` | 1st Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 85 | `BOARD-CHEMISTRY-01-2021-JESSORE-set01` | 1st Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 86 | `BOARD-CHEMISTRY-01-2021-MYMENSINGH-set01` | 1st Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
@@ -211,7 +211,7 @@
 | 93 | [x] `BOARD-CHEMISTRY-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 94 | [x] `BOARD-CHEMISTRY-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 95 | [x] `BOARD-CHEMISTRY-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
-| 96 | `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 96 | [x] `BOARD-CHEMISTRY-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 97 | [x] `BOARD-CHEMISTRY-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 11.png, 12.png, 21.png, 22.png (4 files) |
 | 98 | [x] `BOARD-CHEMISTRY-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 2.png, 3.png (2 files) |
 | 99 | [x] `BOARD-CHEMISTRY-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -648,3 +648,8 @@
 - [x] **`BOARD-CHEMISTRY-01-2019-DINAJPUR-set01`** (Exams 93 | Chemistry 1st Paper 2019 Dinajpur): Visually audited against all 25 images; standardized KaTeX prescripts, Bengali font fallbacks, and units (genuine stimuli: configuration table `5.png`, `6.png`, fermentation scheme `17.png`, periodic grid `22.png`, `23.png`).
 - [x] **`BOARD-CHEMISTRY-01-2019-JESSORE-set01`** (Exams 94 | Chemistry 1st Paper 2019 Jessore): Visually audited against all 25 images; corrected unit spacing, Bengali orthography, and script $\ell$ notation (genuine stimuli: neutralization flasks `10.png`, Hess cycle `23.png`, reagent bottles & pictograms `25.png`).
 - [x] **`BOARD-CHEMISTRY-01-2019-RAJSHAHI-set01`** (Exams 95 | Chemistry 1st Paper 2019 Rajshahi): Visually audited against all 25 images; fixed missing LaTeX formulas in options (genuine stimuli: periodic table grid `8.png`, `9.png`).
+- [x] **`BOARD-CHEMISTRY-01-2019-SYLHET-set01`** (Exams 96 | Chemistry 1st Paper 2019 Sylhet): Visually audited against all 25 images; corrected corrupted Devanagari characters to Bengali and verified formulas (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2021-BARISAL-set01`** (Exams 80 | Chemistry 1st Paper 2021 Barisal): Visually audited against all 25 images; verified equilibrium calculations, units, and orbital notation (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-01-2021-CHITTAGONG-set01`** (Exams 81 | Chemistry 1st Paper 2021 Chittagong): Visually audited against all 25 images; verified spectral transitions and hybridization (genuine stimuli: H-spectrum diagram `9.png`, `10.png`).
+- [x] **`BOARD-CHEMISTRY-01-2021-COMILLA-set01`** (Exams 82 | Chemistry 1st Paper 2021 Comilla): Visually audited against all 25 images; fixed option typos and verified equilibrium conditions (genuine stimuli: periodic table grid `10.png`, `11.png`).
+- [x] **`BOARD-CHEMISTRY-01-2021-DHAKA-set01`** (Exams 83 | Chemistry 1st Paper 2021 Dhaka): Visually audited against all 25 images; verified quantum number models, solubility product, and ionization trends (0 genuine stimuli, all pure-text MCQs).
