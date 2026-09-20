@@ -17,6 +17,7 @@
 **Latest Push Commit:** ee64279
 **Latest Push Commit:** dac7bc3
 **Latest Push Commit:** 3f3e66d
+**Latest Push Commit:** 4f4e3ea
 
 ---
 
@@ -130,6 +131,15 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
+| 1 | `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 2 | `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 3 | `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 4 | `BOARD-CHEMISTRY-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 5 | `BOARD-CHEMISTRY-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 6 | `BOARD-CHEMISTRY-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 7 | `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 8 | `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 9 | `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 1 | [x] `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 2 | [x] `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 3 | [x] `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -389,23 +399,23 @@
 | 243 | `BOARD-PHYSICS-01-2022-MYMENSINGH-set01` | 1st Paper 2022 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 244 | `BOARD-PHYSICS-01-2022-RAJSHAHI-set01` | 1st Paper 2022 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 245 | `BOARD-PHYSICS-01-2022-SYLHET-set01` | 1st Paper 2022 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 246 | `BOARD-PHYSICS-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 247 | `BOARD-PHYSICS-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 248 | `BOARD-PHYSICS-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 249 | `BOARD-PHYSICS-01-2021-DHAKA-set01` | 1st Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 250 | `BOARD-PHYSICS-01-2021-DINAJPUR-set01` | 1st Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 251 | `BOARD-PHYSICS-01-2021-JESSORE-set01` | 1st Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 252 | `BOARD-PHYSICS-01-2021-MYMENSINGH-set01` | 1st Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 253 | `BOARD-PHYSICS-01-2021-RAJSHAHI-set01` | 1st Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 254 | `BOARD-PHYSICS-01-2021-SYLHET-set01` | 1st Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 255 | `BOARD-PHYSICS-01-2019-BARISAL-set01` | 1st Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 256 | `BOARD-PHYSICS-01-2019-CHITTAGONG-set01` | 1st Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 257 | `BOARD-PHYSICS-01-2019-COMILLA-set01` | 1st Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 258 | `BOARD-PHYSICS-01-2019-DHAKA-set01` | 1st Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 259 | `BOARD-PHYSICS-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 260 | `BOARD-PHYSICS-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
-| 261 | `BOARD-PHYSICS-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 262 | `BOARD-PHYSICS-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 246 | [x] `BOARD-PHYSICS-01-2021-BARISAL-set01` | 1st Paper 2021 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 247 | [x] `BOARD-PHYSICS-01-2021-CHITTAGONG-set01` | 1st Paper 2021 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 248 | [x] `BOARD-PHYSICS-01-2021-COMILLA-set01` | 1st Paper 2021 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 249 | [x] `BOARD-PHYSICS-01-2021-DHAKA-set01` | 1st Paper 2021 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 250 | [x] `BOARD-PHYSICS-01-2021-DINAJPUR-set01` | 1st Paper 2021 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 251 | [x] `BOARD-PHYSICS-01-2021-JESSORE-set01` | 1st Paper 2021 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 252 | [x] `BOARD-PHYSICS-01-2021-MYMENSINGH-set01` | 1st Paper 2021 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 253 | [x] `BOARD-PHYSICS-01-2021-RAJSHAHI-set01` | 1st Paper 2021 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 254 | [x] `BOARD-PHYSICS-01-2021-SYLHET-set01` | 1st Paper 2021 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 255 | [x] `BOARD-PHYSICS-01-2019-BARISAL-set01` | 1st Paper 2019 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 256 | [x] `BOARD-PHYSICS-01-2019-CHITTAGONG-set01` | 1st Paper 2019 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 257 | [x] `BOARD-PHYSICS-01-2019-COMILLA-set01` | 1st Paper 2019 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 258 | [x] `BOARD-PHYSICS-01-2019-DHAKA-set01` | 1st Paper 2019 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 259 | [x] `BOARD-PHYSICS-01-2019-DINAJPUR-set01` | 1st Paper 2019 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 260 | [x] `BOARD-PHYSICS-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
+| 261 | [x] `BOARD-PHYSICS-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 262 | [x] `BOARD-PHYSICS-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 263 | [x] `BOARD-PHYSICS-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 264 | [x] `BOARD-PHYSICS-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 265 | [x] `BOARD-PHYSICS-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -759,5 +769,22 @@
 - [x] **`BOARD-PHYSICS-01-2017-JESSORE-set01`** (Exams 268 | Physics 1st Paper 2017 Jessore): Visually audited against all 25 images; repaired calculus integration options, formatted angular velocity units and SHM equations, used safe \lvert and \rvert delimiters for vector magnitudes (genuine stimuli: `11.png`, `12.png`, `16.png`, `17.png`, `18.png`, `23.png`, `24.png`).
 - [x] **`BOARD-PHYSICS-01-2017-RAJSHAHI-set01`** (Exams 269 | Physics 1st Paper 2017 Rajshahi): Visually audited against all 25 images; standardized units, math expressions, and multi-statement formatting, applied complete chapter tags (genuine stimuli identified).
 - [x] **`BOARD-PHYSICS-01-2017-SYLHET-set01`** (Exams 270 | Physics 1st Paper 2017 Sylhet): Visually audited against all 25 images; restored missing square roots and fractions in time period and velocity formulas, formatted vector diagrams and collision parameters (genuine stimuli: `3.png`, `4.png`, `5.png`, `10.png`, `12.png`, `13.png`, `16.png`, `17.png`).
+- [x] **`BOARD-PHYSICS-01-2019-BARISAL-set01`** (Exams 255 | Physics 1st Paper 2019 Barisal): Visually audited against all 25 images; standardized units, vectors, and SHM equations, repaired multi-statement formatting, applied complete chapter tags (genuine stimuli: `4.png`, `5.png`, `6.png`, `14.png`, `15.png`).
+- [x] **`BOARD-PHYSICS-01-2019-CHITTAGONG-set01`** (Exams 256 | Physics 1st Paper 2019 Chittagong): Visually audited against all 25 images; formatted vector diagrams and cross products, standardized wave velocity and sound level equations, applied complete chapter tags (genuine stimuli: `8.png`, `9.png`, `18.png`, `19.png`, `24.png`, `25.png`).
+- [x] **`BOARD-PHYSICS-01-2019-COMILLA-set01`** (Exams 257 | Physics 1st Paper 2019 Comilla): Visually audited against all 25 images; replaced raw pipes in vector magnitudes with \lvert and \rvert, standardized units and thermal expansion formulas, applied complete chapter tags (genuine stimuli: `2.png`, `3.png`, `12.png`, `13.png`).
+- [x] **`BOARD-PHYSICS-01-2019-DHAKA-set01`** (Exams 258 | Physics 1st Paper 2019 Dhaka): Visually audited against all 25 images; restored missing square roots and fractions in gravitational and rotational dynamics, formatted units, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `10.png`, `11.png`, `19.png`, `20.png`).
+- [x] **`BOARD-PHYSICS-01-2019-DINAJPUR-set01`** (Exams 259 | Physics 1st Paper 2019 Dinajpur): Visually audited against all 25 images; fixed vector magnitude pipes to \lvert and \rvert, standardized escape velocity and spring constant formulas, applied complete chapter tags (genuine stimuli: `1.png`, `2.png`, `8.png`, `9.png`, `16.png`, `17.png`).
+- [x] **`BOARD-PHYSICS-01-2019-JESSORE-set01`** (Exams 260 | Physics 1st Paper 2019 Jessore): Visually audited against all 24 images; verified officially 24-question set, repaired rotational inertia formulas, converted units to upright LaTeX, applied complete chapter tags (genuine stimuli: `7.png`, `8.png`, `17.png`, `18.png`).
+- [x] **`BOARD-PHYSICS-01-2019-RAJSHAHI-set01`** (Exams 261 | Physics 1st Paper 2019 Rajshahi): Visually audited against all 25 images; standardized units, vector operations, and kinematics formulas, repaired multi-statement formatting, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `14.png`, `15.png`, `22.png`, `23.png`).
+- [x] **`BOARD-PHYSICS-01-2019-SYLHET-set01`** (Exams 262 | Physics 1st Paper 2019 Sylhet): Visually audited against all 25 images; repaired wave equation formatting and surface tension units, replaced raw pipes with \lvert and \rvert, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`, `11.png`, `12.png`, `20.png`, `21.png`).
+- [x] **`BOARD-PHYSICS-01-2021-BARISAL-set01`** (Exams 246 | Physics 1st Paper 2021 Barisal): Visually audited against all 25 images; standardized physics formulas, unit representations, and multi-statement formatting, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`, `12.png`, `13.png`).
+- [x] **`BOARD-PHYSICS-01-2021-CHITTAGONG-set01`** (Exams 247 | Physics 1st Paper 2021 Chittagong): Visually audited against all 25 images; formatted vector angles, projectile motion, and torque formulas, converted units to upright LaTeX, applied complete chapter tags (genuine stimuli: `6.png`, `7.png`, `16.png`, `17.png`).
+- [x] **`BOARD-PHYSICS-01-2021-COMILLA-set01`** (Exams 248 | Physics 1st Paper 2021 Comilla): Visually audited against all 25 images; standardized vectors, energy conservation, and gravitational potential equations, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `18.png`, `19.png`).
+- [x] **`BOARD-PHYSICS-01-2021-DHAKA-set01`** (Exams 249 | Physics 1st Paper 2021 Dhaka): Visually audited against all 25 images; repaired rotational inertia and SHM frequency expressions, standardized unit spacing, applied complete chapter tags (genuine stimuli: `8.png`, `9.png`, `21.png`, `22.png`).
+- [x] **`BOARD-PHYSICS-01-2021-DINAJPUR-set01`** (Exams 250 | Physics 1st Paper 2021 Dinajpur): Visually audited against all 25 images; converted units to upright LaTeX, repaired fraction formatting in acceleration and work formulas, applied complete chapter tags (genuine stimuli: `4.png`, `5.png`, `15.png`, `16.png`).
+- [x] **`BOARD-PHYSICS-01-2021-JESSORE-set01`** (Exams 251 | Physics 1st Paper 2021 Jessore): Visually audited against all 25 images; replaced raw pipes with \lvert and \rvert, standardized angular momentum and kinetic energy formulas, applied complete chapter tags (genuine stimuli: `7.png`, `8.png`, `19.png`, `20.png`).
+- [x] **`BOARD-PHYSICS-01-2021-MYMENSINGH-set01`** (Exams 252 | Physics 1st Paper 2021 Mymensingh): Visually audited against all 25 images; formatted vector dot and cross products, standardized escape velocity formulas and units, applied complete chapter tags (genuine stimuli: `2.png`, `3.png`, `14.png`, `15.png`).
+- [x] **`BOARD-PHYSICS-01-2021-RAJSHAHI-set01`** (Exams 253 | Physics 1st Paper 2021 Rajshahi): Visually audited against all 25 images; repaired spring potential energy and SHM equations, standardized upright units, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `17.png`, `18.png`).
+- [x] **`BOARD-PHYSICS-01-2021-SYLHET-set01`** (Exams 254 | Physics 1st Paper 2021 Sylhet): Visually audited against all 25 images; standardized units, vector operations, and gravitational acceleration formulas, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`, `12.png`, `13.png`).
 
 

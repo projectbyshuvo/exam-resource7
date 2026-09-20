@@ -3,7 +3,7 @@
 This document tracks human manual verification against original board exam images.
 When a set is manually checked and updated, mark its checkbox as `[x]`.
 
-> **Total Sets:** 475 | **Manually Checked:** 112 | **Remaining Unchecked:** 363
+> **Total Sets:** 475 | **Manually Checked:** 129 | **Remaining Unchecked:** 346
 
 ---
 
@@ -104,6 +104,15 @@ When a set is manually checked and updated, mark its checkbox as `[x]`.
 - [x] `chemistry/02/2023/mymensingh/set01` — **Manually Audited & Verified**
 - [x] `chemistry/02/2023/rajshahi/set01` — **Manually Audited & Verified**
 - [x] `chemistry/02/2023/sylhet/set01` — **Manually Audited & Verified**
+- [ ] `chemistry/02/2025/barisal/set01`
+- [ ] `chemistry/02/2025/chittagong/set01`
+- [ ] `chemistry/02/2025/comilla/set01`
+- [ ] `chemistry/02/2025/dhaka/set01`
+- [ ] `chemistry/02/2025/dinajpur/set01`
+- [ ] `chemistry/02/2025/jessore/set01`
+- [ ] `chemistry/02/2025/mymensingh/set01`
+- [ ] `chemistry/02/2025/rajshahi/set01`
+- [ ] `chemistry/02/2025/sylhet/set01`
 - [x] `chemistry/02/2025/barisal/set01` — **Manually Audited & Verified**
 - [x] `chemistry/02/2025/chittagong/set01` — **Manually Audited & Verified**
 - [x] `chemistry/02/2025/comilla/set01` — **Manually Audited & Verified**
@@ -124,23 +133,23 @@ When a set is manually checked and updated, mark its checkbox as `[x]`.
 - [x] `physics/01/2017/jessore/set01` — **Manually Audited & Verified**
 - [x] `physics/01/2017/rajshahi/set01` — **Manually Audited & Verified**
 - [x] `physics/01/2017/sylhet/set01` — **Manually Audited & Verified**
-- [ ] `physics/01/2019/barisal/set01`
-- [ ] `physics/01/2019/chittagong/set01`
-- [ ] `physics/01/2019/comilla/set01`
-- [ ] `physics/01/2019/dhaka/set01`
-- [ ] `physics/01/2019/dinajpur/set01`
-- [ ] `physics/01/2019/jessore/set01`
-- [ ] `physics/01/2019/rajshahi/set01`
-- [ ] `physics/01/2019/sylhet/set01`
-- [ ] `physics/01/2021/barisal/set01`
-- [ ] `physics/01/2021/chittagong/set01`
-- [ ] `physics/01/2021/comilla/set01`
-- [ ] `physics/01/2021/dhaka/set01`
-- [ ] `physics/01/2021/dinajpur/set01`
-- [ ] `physics/01/2021/jessore/set01`
-- [ ] `physics/01/2021/mymensingh/set01`
-- [ ] `physics/01/2021/rajshahi/set01`
-- [ ] `physics/01/2021/sylhet/set01`
+- [x] `physics/01/2019/barisal/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/chittagong/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/comilla/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/dhaka/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/dinajpur/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/jessore/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/rajshahi/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2019/sylhet/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/barisal/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/chittagong/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/comilla/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/dhaka/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/dinajpur/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/jessore/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/mymensingh/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/rajshahi/set01` — **Manually Audited & Verified**
+- [x] `physics/01/2021/sylhet/set01` — **Manually Audited & Verified**
 - [ ] `physics/01/2022/barisal/set01`
 - [ ] `physics/01/2022/chittagong/set01`
 - [ ] `physics/01/2022/comilla/set01`
