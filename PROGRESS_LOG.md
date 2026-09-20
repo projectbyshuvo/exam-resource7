@@ -16,6 +16,7 @@
 **Latest Push Commit:** 4b4951c
 **Latest Push Commit:** ee64279
 **Latest Push Commit:** dac7bc3
+**Latest Push Commit:** 3f3e66d
 
 ---
 
@@ -129,15 +130,15 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 1 | `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 2 | `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 3 | `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 4 | `BOARD-CHEMISTRY-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 5 | `BOARD-CHEMISTRY-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 6 | `BOARD-CHEMISTRY-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 7 | `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 8 | `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 9 | `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 1 | [x] `BOARD-CHEMISTRY-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 2 | [x] `BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 3 | [x] `BOARD-CHEMISTRY-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 4 | [x] `BOARD-CHEMISTRY-02-2025-DHAKA-set01` | 2nd Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 5 | [x] `BOARD-CHEMISTRY-02-2025-DINAJPUR-set01` | 2nd Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 6 | [x] `BOARD-CHEMISTRY-02-2025-JESSORE-set01` | 2nd Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 7 | [x] `BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01` | 2nd Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 8 | [x] `BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01` | 2nd Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 9 | [x] `BOARD-CHEMISTRY-02-2025-SYLHET-set01` | 2nd Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 10 | [x] `BOARD-CHEMISTRY-02-2023-BARISAL-set01` | 2nd Paper 2023 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 11 | [x] `BOARD-CHEMISTRY-02-2023-CHITTAGONG-set01` | 2nd Paper 2023 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 12 | [x] `BOARD-CHEMISTRY-02-2023-COMILLA-set01` | 2nd Paper 2023 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
@@ -405,14 +406,14 @@
 | 260 | `BOARD-PHYSICS-01-2019-JESSORE-set01` | 1st Paper 2019 | Jessore | 🟢 `questions.txt updated with latex` | ⚠️ 1.png, 2.png, 3.png, 4.png, 5.png, 6.png, 7.png, 8.png, 9.png, 10.png, 11.png, 12.png, 13.png, 14.png, 15.png, 16.png, 17.png, 18.png, 19.png, 20.png, 21.png, 22.png, 23.png, 24.png (24 files) |
 | 261 | `BOARD-PHYSICS-01-2019-RAJSHAHI-set01` | 1st Paper 2019 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 262 | `BOARD-PHYSICS-01-2019-SYLHET-set01` | 1st Paper 2019 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 263 | `BOARD-PHYSICS-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 264 | `BOARD-PHYSICS-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 265 | `BOARD-PHYSICS-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 266 | `BOARD-PHYSICS-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 267 | `BOARD-PHYSICS-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 268 | `BOARD-PHYSICS-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 269 | `BOARD-PHYSICS-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 270 | `BOARD-PHYSICS-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 263 | [x] `BOARD-PHYSICS-01-2017-BARISAL-set01` | 1st Paper 2017 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 264 | [x] `BOARD-PHYSICS-01-2017-CHITTAGONG-set01` | 1st Paper 2017 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 265 | [x] `BOARD-PHYSICS-01-2017-COMILLA-set01` | 1st Paper 2017 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 266 | [x] `BOARD-PHYSICS-01-2017-DHAKA-set01` | 1st Paper 2017 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 267 | [x] `BOARD-PHYSICS-01-2017-DINAJPUR-set01` | 1st Paper 2017 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 268 | [x] `BOARD-PHYSICS-01-2017-JESSORE-set01` | 1st Paper 2017 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 269 | [x] `BOARD-PHYSICS-01-2017-RAJSHAHI-set01` | 1st Paper 2017 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 270 | [x] `BOARD-PHYSICS-01-2017-SYLHET-set01` | 1st Paper 2017 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 271 | `BOARD-PHYSICS-02-2025-BARISAL-set01` | 2nd Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 272 | `BOARD-PHYSICS-02-2025-CHITTAGONG-set01` | 2nd Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 273 | `BOARD-PHYSICS-02-2025-COMILLA-set01` | 2nd Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
@@ -741,4 +742,22 @@
 - [x] **`BOARD-CHEMISTRY-02-2023-MYMENSINGH-set01`** (Exams 16 | Chemistry 2nd Paper 2023 Mymensingh): Visually audited against all 25 images; wrapped chemical formulas in \text{}, fixed unit formatting, standardized reaction arrows and multi-statement options.
 - [x] **`BOARD-CHEMISTRY-02-2023-RAJSHAHI-set01`** (Exams 17 | Chemistry 2nd Paper 2023 Rajshahi): Visually audited against all 25 images; converted formulas to \text{}, standardized units and exponents, aligned multi-statement formatting and organic reactions.
 - [x] **`BOARD-CHEMISTRY-02-2023-SYLHET-set01`** (Exams 18 | Chemistry 2nd Paper 2023 Sylhet): Visually audited against all 25 images; converted molecular formulas to \text{}, formatted functional group options, standardized reaction schemes and multi-statement formatting.
+- [x] **`BOARD-CHEMISTRY-02-2025-BARISAL-set01`** (Exams 1 | Chemistry 2nd Paper 2025 Barisal): Visually audited against all 25 images; converted chemical formulas to \text{}, repaired tab corruption in \text{atm}, formatted half-cell expressions and multi-statement formatting (genuine stimuli: `9.png`, `13.png`, `14.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-CHITTAGONG-set01`** (Exams 2 | Chemistry 2nd Paper 2025 Chittagong): Visually audited against all 25 images; transcribed missing reaction stimuli for Q2, Q3, Q14, Q18, Q19 into self-contained KaTeX stems, eradicated tab corruption in \text{atm}, aligned cell notations with \parallel (genuine stimuli: `2.png`, `3.png`, `14.png`, `18.png`, `19.png`, `25.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-COMILLA-set01`** (Exams 3 | Chemistry 2nd Paper 2025 Comilla): Visually audited against all 25 images; transcribed missing stimulus reaction for Q23 and Q24 into KaTeX, wrapped chemical formulas in \text{}, standardized redox reactions and units (genuine stimuli: `23.png`, `24.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-DHAKA-set01`** (Exams 4 | Chemistry 2nd Paper 2025 Dhaka): Visually audited against all 25 images; standardized chemical formulas and functional groups in \text{}, unified cell notations with \parallel, repaired broken reaction arrows, formatted carbocation species (genuine stimuli: `9.png`, `10.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-DINAJPUR-set01`** (Exams 5 | Chemistry 2nd Paper 2025 Dinajpur): Visually audited against all 25 images; fixed fragmented \xrightarrow{} in reaction schemes, converted formula options to upright \text{}, aligned multi-statement formatting (genuine stimuli: `8.png`, `13.png`, `14.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-JESSORE-set01`** (Exams 6 | Chemistry 2nd Paper 2025 Jessore): Visually audited against all 25 images; fixed undefined \mugL to \mu\text{g L}^{-1}, fixed unspaced \equivCH syntax error, enclosed reaction arrows inside math mode, formatted cell notation with \parallel (0 genuine stimuli, all pure-text MCQs).
+- [x] **`BOARD-CHEMISTRY-02-2025-MYMENSINGH-set01`** (Exams 7 | Chemistry 2nd Paper 2025 Mymensingh): Visually audited against all 25 images; replaced conflicting pipe in cell options with \mid inside math mode, eliminated tab character in \text{atm}, repaired fragmented reaction arrows (genuine stimuli: `18.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-RAJSHAHI-set01`** (Exams 8 | Chemistry 2nd Paper 2025 Rajshahi): Visually audited against all 25 images; eliminated tab corruption in 1 \text{atm}, standardized derivative notation \left(\frac{dU}{dV}\right)_T, wrapped chemical formulas in \text{} (genuine stimuli: `8.png`, `19.png`, `20.png`).
+- [x] **`BOARD-CHEMISTRY-02-2025-SYLHET-set01`** (Exams 9 | Chemistry 2nd Paper 2025 Sylhet): Visually audited against all 25 images; formatted two-level KaTeX reaction arrows, removed tab corruption in \text{atm}, standardized chemical radicals and multi-statement items (genuine stimuli: `18.png`, `19.png`, `24.png`, `25.png`).
+- [x] **`BOARD-PHYSICS-01-2017-BARISAL-set01`** (Exams 263 | Physics 1st Paper 2017 Barisal): Visually audited against all 25 images; standardized physical units with \text{}, formatted vector cross products and solinoidal conditions, applied chapter tags across all questions (genuine stimuli: `11.png`).
+- [x] **`BOARD-PHYSICS-01-2017-CHITTAGONG-set01`** (Exams 264 | Physics 1st Paper 2017 Chittagong): Visually audited against all 25 images; fixed raw pipes in vector magnitudes to \lvert and \rvert, repaired broken fraction OCR in options, standardized kinematics and wave parameters (genuine stimuli: `5.png`, `6.png`, `9.png`, `10.png`, `15.png`, `16.png`, `18.png`, `19.png`, `20.png`, `22.png`, `24.png`).
+- [x] **`BOARD-PHYSICS-01-2017-COMILLA-set01`** (Exams 265 | Physics 1st Paper 2017 Comilla): Visually audited against all 25 images; standardized physics formulas, formatted units and dimensions in upright LaTeX, aligned multi-statement formatting, applied complete chapter tags (genuine stimuli: `2.png`, `5.png`, `7.png`, `17.png`, `25.png`).
+- [x] **`BOARD-PHYSICS-01-2017-DHAKA-set01`** (Exams 266 | Physics 1st Paper 2017 Dhaka): Visually audited against all 25 images; restored missing square roots in options, rebuilt differential equation and frequency formulas in KaTeX, applied complete chapter tags (genuine stimuli: `4.png`, `5.png`, `6.png`, `16.png`, `17.png`, `18.png`, `19.png`, `23.png`).
+- [x] **`BOARD-PHYSICS-01-2017-DINAJPUR-set01`** (Exams 267 | Physics 1st Paper 2017 Dinajpur): Visually audited against all 25 images; restored broken fractions in SHM formulas, formatted vectors and units, replaced literal pipes with \lvert and \rvert, applied complete chapter tags (genuine stimuli: `8.png`, `15.png`, `16.png`, `18.png`).
+- [x] **`BOARD-PHYSICS-01-2017-JESSORE-set01`** (Exams 268 | Physics 1st Paper 2017 Jessore): Visually audited against all 25 images; repaired calculus integration options, formatted angular velocity units and SHM equations, used safe \lvert and \rvert delimiters for vector magnitudes (genuine stimuli: `11.png`, `12.png`, `16.png`, `17.png`, `18.png`, `23.png`, `24.png`).
+- [x] **`BOARD-PHYSICS-01-2017-RAJSHAHI-set01`** (Exams 269 | Physics 1st Paper 2017 Rajshahi): Visually audited against all 25 images; standardized units, math expressions, and multi-statement formatting, applied complete chapter tags (genuine stimuli identified).
+- [x] **`BOARD-PHYSICS-01-2017-SYLHET-set01`** (Exams 270 | Physics 1st Paper 2017 Sylhet): Visually audited against all 25 images; restored missing square roots and fractions in time period and velocity formulas, formatted vector diagrams and collision parameters (genuine stimuli: `3.png`, `4.png`, `5.png`, `10.png`, `12.png`, `13.png`, `16.png`, `17.png`).
+
 
