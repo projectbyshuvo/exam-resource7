@@ -3,7 +3,7 @@
 This document tracks human manual verification against original board exam images.
 When a set is manually checked and updated, mark its checkbox as `[x]`.
 
-> **Total Sets:** 475 | **Manually Checked:** 20 | **Remaining Unchecked:** 455
+> **Total Sets:** 475 | **Manually Checked:** 25 | **Remaining Unchecked:** 450
 
 ---
 
@@ -29,11 +29,11 @@ When a set is manually checked and updated, mark its checkbox as `[x]`.
 - [x] `chemistry/01/2021/chittagong/set01` — **Manually Audited & Verified**
 - [x] `chemistry/01/2021/comilla/set01` — **Manually Audited & Verified**
 - [x] `chemistry/01/2021/dhaka/set01` — **Manually Audited & Verified**
-- [ ] `chemistry/01/2021/dinajpur/set01`
-- [ ] `chemistry/01/2021/jessore/set01`
-- [ ] `chemistry/01/2021/mymensingh/set01`
-- [ ] `chemistry/01/2021/rajshahi/set01`
-- [ ] `chemistry/01/2021/sylhet/set01`
+- [x] `chemistry/01/2021/dinajpur/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2021/jessore/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2021/mymensingh/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2021/rajshahi/set01` — **Manually Audited & Verified**
+- [x] `chemistry/01/2021/sylhet/set01` — **Manually Audited & Verified**
 - [ ] `chemistry/01/2022/barisal/set01`
 - [ ] `chemistry/01/2022/chittagong/set01`
 - [ ] `chemistry/01/2022/comilla/set01`
