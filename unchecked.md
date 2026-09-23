@@ -3,7 +3,7 @@
 This document tracks human manual verification against original board exam images.
 When a set is manually checked and updated, mark its checkbox as `[x]`.
 
-> **Total Sets:** 475 | **Manually Checked:** 129 | **Remaining Unchecked:** 346
+> **Total Sets:** 475 | **Manually Checked:** 138 | **Remaining Unchecked:** 337
 
 ---
 
@@ -496,13 +496,13 @@ When a set is manually checked and updated, mark its checkbox as `[x]`.
 - [ ] `ict/2024/mymensingh/set01`
 - [ ] `ict/2024/rajshahi/set01`
 - [ ] `ict/2024/sylhet/set01`
-- [ ] `ict/2025/barisal/set01`
-- [ ] `ict/2025/chittagong/set01`
-- [ ] `ict/2025/comilla/set01`
-- [ ] `ict/2025/dhaka/set01`
-- [ ] `ict/2025/dinajpur/set01`
-- [ ] `ict/2025/jessore/set01`
-- [ ] `ict/2025/mymensingh/set01`
-- [ ] `ict/2025/rajshahi/set01`
-- [ ] `ict/2025/sylhet/set01`
+- [x] `ict/2025/barisal/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/chittagong/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/comilla/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/dhaka/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/dinajpur/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/jessore/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/mymensingh/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/rajshahi/set01` — **Manually Audited & Verified**
+- [x] `ict/2025/sylhet/set01` — **Manually Audited & Verified**
 

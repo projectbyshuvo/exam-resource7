@@ -18,6 +18,7 @@
 **Latest Push Commit:** dac7bc3
 **Latest Push Commit:** 3f3e66d
 **Latest Push Commit:** 4f4e3ea
+**Latest Push Commit:** 77826dc
 
 ---
 
@@ -600,15 +601,15 @@
 
 | # | Exam ID | Paper & Year | Board & Set | questions.txt Status | Existing Image Files |
 | :---: | :--- | :--- | :--- | :--- | :--- |
-| 433 | `BOARD-ICT-2025-BARISAL-set01` | Single Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 434 | `BOARD-ICT-2025-CHITTAGONG-set01` | Single Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 435 | `BOARD-ICT-2025-COMILLA-set01` | Single Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 436 | `BOARD-ICT-2025-DHAKA-set01` | Single Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 437 | `BOARD-ICT-2025-DINAJPUR-set01` | Single Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 438 | `BOARD-ICT-2025-JESSORE-set01` | Single Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 439 | `BOARD-ICT-2025-MYMENSINGH-set01` | Single Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 440 | `BOARD-ICT-2025-RAJSHAHI-set01` | Single Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
-| 441 | `BOARD-ICT-2025-SYLHET-set01` | Single Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
+| 433 | [x] `BOARD-ICT-2025-BARISAL-set01` | Single Paper 2025 | Barisal | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 434 | [x] `BOARD-ICT-2025-CHITTAGONG-set01` | Single Paper 2025 | Chittagong | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 435 | [x] `BOARD-ICT-2025-COMILLA-set01` | Single Paper 2025 | Comilla | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 436 | [x] `BOARD-ICT-2025-DHAKA-set01` | Single Paper 2025 | Dhaka | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 437 | [x] `BOARD-ICT-2025-DINAJPUR-set01` | Single Paper 2025 | Dinajpur | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 438 | [x] `BOARD-ICT-2025-JESSORE-set01` | Single Paper 2025 | Jessore | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 439 | [x] `BOARD-ICT-2025-MYMENSINGH-set01` | Single Paper 2025 | Mymensingh | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 440 | [x] `BOARD-ICT-2025-RAJSHAHI-set01` | Single Paper 2025 | Rajshahi | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
+| 441 | [x] `BOARD-ICT-2025-SYLHET-set01` | Single Paper 2025 | Sylhet | 🟢 `questions.txt updated with latex` *(Manually Audited)* | 🖼️ 1.png–25.png (25 files) |
 | 442 | `BOARD-ICT-2024-BARISAL-set01` | Single Paper 2024 | Barisal | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 443 | `BOARD-ICT-2024-CHITTAGONG-set01` | Single Paper 2024 | Chittagong | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
 | 444 | `BOARD-ICT-2024-COMILLA-set01` | Single Paper 2024 | Comilla | 🟢 `questions.txt updated with latex` | 🖼️ 1.png–25.png (25 files) |
@@ -786,5 +787,14 @@
 - [x] **`BOARD-PHYSICS-01-2021-MYMENSINGH-set01`** (Exams 252 | Physics 1st Paper 2021 Mymensingh): Visually audited against all 25 images; formatted vector dot and cross products, standardized escape velocity formulas and units, applied complete chapter tags (genuine stimuli: `2.png`, `3.png`, `14.png`, `15.png`).
 - [x] **`BOARD-PHYSICS-01-2021-RAJSHAHI-set01`** (Exams 253 | Physics 1st Paper 2021 Rajshahi): Visually audited against all 25 images; repaired spring potential energy and SHM equations, standardized upright units, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `17.png`, `18.png`).
 - [x] **`BOARD-PHYSICS-01-2021-SYLHET-set01`** (Exams 254 | Physics 1st Paper 2021 Sylhet): Visually audited against all 25 images; standardized units, vector operations, and gravitational acceleration formulas, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`, `12.png`, `13.png`).
+- [x] **`BOARD-ICT-2025-BARISAL-set01`** (Exams 433 | ICT 2025 Barisal): Visually audited against all 25 images; removed answer spoilers from circuit and block diagram stems, corrected OCR errors (`< 01 >` to `<ol>`, `% if` to `%lf`, `O` to `0`), formatted boolean equations and units with KaTeX, applied complete chapter tags (genuine stimuli: `5.png`, `6.png`, `10.png`).
+- [x] **`BOARD-ICT-2025-CHITTAGONG-set01`** (Exams 434 | ICT 2025 Chittagong): Visually audited against all 25 images; restored missing 3-input XOR truth table and missing roman numerals, replaced hallucinated statements in satellite communications with exact image text, repaired scrambled C syntax questions Q21/Q22, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`, `9.png`, `10.png`).
+- [x] **`BOARD-ICT-2025-COMILLA-set01`** (Exams 435 | ICT 2025 Comilla): Visually audited against all 25 images; repaired major stem discrepancy in Q2 to match loop increment prompt, corrected schematic input connections for logic circuit Q18, fixed digit `0` from OCR `O`, applied complete chapter tags (genuine stimuli: `1.png`, `2.png`, `18.png`, `19.png`, `23.png`).
+- [x] **`BOARD-ICT-2025-DHAKA-set01`** (Exams 436 | ICT 2025 Dhaka): Visually audited against all 25 images; standardized schematic switching circuit diagram stems Q15/Q16, fixed overline math formatting in De Morgan options, cleaned C code operator delimiters, applied complete chapter tags (genuine stimuli: `15.png`, `16.png`).
+- [x] **`BOARD-ICT-2025-DINAJPUR-set01`** (Exams 437 | ICT 2025 Dinajpur): Visually audited against all 25 images; removed answer spoilers from cascading NAND stem Q12, repaired severely garbled boolean expression in Q14, corrected OCR artifacts (`hl` to `h1`, `O` to `0`), applied complete chapter tags (genuine stimuli: `12.png`, `13.png`).
+- [x] **`BOARD-ICT-2025-JESSORE-set01`** (Exams 438 | ICT 2025 Jessore): Visually audited against all 25 images; resolved major question mismatch in Q25 to accurately trace loop break statement, corrected Q24 output count prompt, formatted waveform and logic gate diagrams, applied complete chapter tags (genuine stimuli: `12.png`, `15.png`, `16.png`).
+- [x] **`BOARD-ICT-2025-MYMENSINGH-set01`** (Exams 439 | ICT 2025 Mymensingh): Visually audited against all 25 images; refined logic circuit description without intermediate answer leakage, cleaned C code snippets and string library functions, standardized transfer rates and octal/hex values with KaTeX, applied complete chapter tags (genuine stimuli: `3.png`, `4.png`).
+- [x] **`BOARD-ICT-2025-RAJSHAHI-set01`** (Exams 440 | ICT 2025 Rajshahi): Visually audited against all 25 images; formatted Star topology and electrical switch circuits, repaired math and modulo operators in C expressions, corrected OCR digit `0` from `O`, applied complete chapter tags (genuine stimuli: `5.png`, `10.png`, `11.png`, `25.png`).
+- [x] **`BOARD-ICT-2025-SYLHET-set01`** (Exams 441 | ICT 2025 Sylhet): Visually audited against all 25 images; formatted 2-input logic gate truth table and 4-gate combinational circuit stems Q9/Q10 without premature answer leaks, repaired corrupted XOR overline statements in Q8, applied complete chapter tags (genuine stimuli: `7.png`, `8.png`, `9.png`, `10.png`).
 
 
